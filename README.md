@@ -1,954 +1,1152 @@
 
 #EXTM3U
- 
+
 #PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
- 
+
 ################################################################################# Informações da Lista
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",(44)98656144 
-https://www.youtube.com/channel/UCojJlq
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",RamalhoTV
- https://www.youtube.com/channel/UCojJlqr-L
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:29/01/2022 
-https://www.youtube.com/channel/UCojJlqr-L
- 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:20/02/2022 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
-https://www.youtube.com/channel/UCojJlqr-
- 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! 
-https://www.youtube.com/channel/UCojJlqr-L
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44)98656144 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44) 98656144 
 https://www.youtube.com/channel/UCojJ
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E - SD" tvg-logo="http://xsrv.me/logos/img/ae.png" group-title="- Filmes e Series",A&E - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24802|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E - HD" tvg-logo="http://xsrv.me/logos/img/ae.png" group-title="- Filmes e Series",A&E - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24800|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E - FHD" tvg-logo="http://xsrv.me/logos/img/ae.png" group-title="- Filmes e Series",A&E - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24798|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Sports - 01 HD" tvg-logo="https://i.imgur.com/z9519hO.png" group-title="- Esportes",Abu Dabi Sports - 01 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/81499|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Sports - 02 HD" tvg-logo="http://sa.heytv.org/wp-content/uploads/2019/03/abu-dhabi-sports-2.png" group-title="- Esportes",Abu Dabi Sports - 02 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/81500|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Sports - 03 HD" tvg-logo="https://i.imgur.com/z9519hO.png" group-title="- Esportes",Abu Dabi Sports - 03 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/81501|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="ALL Sports" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="- Esportes",ALL Sports
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/59589|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC - SD" tvg-logo="http://xsrv.me/logos/img/amc.png" group-title="- Filmes e Series",AMC - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24809|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC - HD" tvg-logo="http://xsrv.me/logos/img/amc.png" group-title="- Filmes e Series",AMC - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24807|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC - FHD" tvg-logo="http://xsrv.me/logos/img/amc.png" group-title="- Filmes e Series",AMC - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24805|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet - 4K" tvg-logo="http://xsrv.me/logos/img/animalplanet.png" group-title="- Documentários",Animal Planet - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33800|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet - SD" tvg-logo="http://cdnbr.me/logos/img/animalplanet.png" group-title="- Documentários",Animal Planet - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24959|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet - HD" tvg-logo="http://cdnbr.me/logos/img/animalplanet.png" group-title="- Documentários",Animal Planet - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24957|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet - FHD" tvg-logo="http://cdnbr.me/logos/img/animalplanet.png" group-title="- Documentários",Animal Planet - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24955|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 - SD" tvg-logo="http://xsrv.me/logos/img/arte1.png" group-title="- Variedades",Arte 1 - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25160|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1  - HD" tvg-logo="http://xsrv.me/logos/img/arte1.png" group-title="- Variedades",Arte 1  - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25159|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN - SD" tvg-logo="http://xsrv.me/logos/img/axn.png" group-title="- Filmes e Series",AXN - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24815|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN - HD" tvg-logo="http://xsrv.me/logos/img/axn.png" group-title="- Filmes e Series",AXN - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24813|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN - FHD" tvg-logo="http://xsrv.me/logos/img/axn.png" group-title="- Filmes e Series",AXN - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24812|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV - SD" tvg-logo="http://xsrv.me/logos/img/babytv.png" group-title="- Infantil",Baby TV - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25094|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band - 4K" tvg-logo="http://xsrv.me/logos/img/band.png" group-title="- Band [Cortesia]",Band - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33801|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo [SD]" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo [SD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24548|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo [SD]²" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo [SD]²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/134455|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo [HD]" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo [HD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24545|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo [HD]²" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo [HD]²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/134454|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo [FHD]" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo [FHD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24544|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News - SD" tvg-logo="http://xsrv.me/logos/img/bandnews.png" group-title="- News",Band News - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24554|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News - HD" tvg-logo="http://xsrv.me/logos/img/bandnews.png" group-title="- News",Band News - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24552|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="BandRJ.br(m3u4u)" tvg-name="Band RJ - Rio de Janeiro [HD]" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band RJ - Rio de Janeiro [HD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/84865|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis - SD" tvg-logo="http://xsrv.me/logos/img/bis.png" group-title="- Variedades",Bis - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25121|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis - HD" tvg-logo="http://xsrv.me/logos/img/bis.png" group-title="- Variedades",Bis - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25119|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Cartoonito - SD" tvg-logo="http://xsrv.me/logos/img/cartoonito.png" group-title="- Infantil",Cartoonito - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25089|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Cartoonito - HD" tvg-logo="http://xsrv.me/logos/img/cartoonito.png" group-title="- Infantil",Cartoonito - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25088|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Cartoonito - FHD" tvg-logo="http://xsrv.me/logos/img/cartoonito.png" group-title="- Infantil",Cartoonito - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29898|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV SP - São Paulo SD" tvg-logo="http://cdnbr.me/logos/img/redetv.png" group-title="- Abertos [Cortesia]",RedeTV SP - São Paulo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24559|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV SP - São Paulo HD" tvg-logo="http://cdnbr.me/logos/img/redetv.png" group-title="- Abertos [Cortesia]",RedeTV SP - São Paulo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24558|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV SP - São Paulo FHD" tvg-logo="http://cdnbr.me/logos/img/redetv.png" group-title="- Abertos [Cortesia]",RedeTV SP - São Paulo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24557|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="RedeTV RS - Porto Alegre HD" tvg-logo="http://cdnbr.me/logos/img/redetv.png" group-title="- Abertos [Cortesia]",RedeTV RS - Porto Alegre HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/97418|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="ConmebolTV1.br(m3u4u)" tvg-name="TV Conmebol 1 - HD" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 1 - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86077|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="ConmebolTV1.br(m3u4u)" tvg-name="TV Conmebol 01 - HD²" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 01 - HD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/103840|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="ConmebolTV1.br(m3u4u)" tvg-name="TV Conmebol 01 - HD³" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 01 - HD³
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/107524|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 2 - HD" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 2 - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86078|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 02 - HD²" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 02 - HD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/103841|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 02 - HD³" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 02 - HD³
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/107525|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 3 - HD" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 3 - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86079|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 03 - HD²" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 03 - HD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/103842|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 03 - HD³" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 03 - HD³
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/107526|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 4 - HD" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 4 - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86080|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 04 - HD²" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 04 - HD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/103843|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 04 - HD³" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 04 - HD³
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/107527|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil - SD" tvg-logo="http://cdnbr.me/logos/img/canalbrasil.png" group-title="- Abertos [Cortesia]",Canal Brasil - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24564|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil - HD" tvg-logo="http://cdnbr.me/logos/img/canalbrasil.png" group-title="- Abertos [Cortesia]",Canal Brasil - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24562|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI" tvg-logo="http://cdnbr.me/logos/img/canaldoboi.png" group-title="- Abertos [Cortesia]",CANAL DO BOI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33563|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL - SD" tvg-logo="http://cdnbr.me/logos/img/canalrural.png" group-title="- Abertos [Cortesia]",CANAL RURAL - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/35033|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony - SD" tvg-logo="http://xsrv.me/logos/img/sony.png" group-title="- Filmes e Series",Canal Sony - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24822|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony - HD" tvg-logo="http://xsrv.me/logos/img/sony.png" group-title="- Filmes e Series",Canal Sony - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24820|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony - FHD" tvg-logo="http://xsrv.me/logos/img/sony.png" group-title="- Filmes e Series",Canal Sony - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24818|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova - SD" tvg-logo="http://xsrv.me/logos/img/cancaonova.png" group-title="- Religiosos",Canção Nova - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25201|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova - HD" tvg-logo="http://xsrv.me/logos/img/cancaonova.png" group-title="- Religiosos",Canção Nova - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25200|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network - 4K" tvg-logo="http://xsrv.me/logos/img/cartoonnetwork.png" group-title="- Infantil",Cartoon Network - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33802|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network - SD" tvg-logo="http://xsrv.me/logos/img/cartoonnetwork.png" group-title="- Infantil",Cartoon Network - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25069|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network - HD" tvg-logo="http://xsrv.me/logos/img/cartoonnetwork.png" group-title="- Infantil",Cartoon Network - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25068|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network - FHD" tvg-logo="http://xsrv.me/logos/img/cartoonnetwork.png" group-title="- Infantil",Cartoon Network - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25065|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 1" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86130|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 2" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86131|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 3" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86132|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 4" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86133|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 5" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86134|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 6" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86135|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 7" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86136|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 8" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86137|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 9" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 9
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86138|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 10" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 10
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86139|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 11" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 11
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86140|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 12" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 12
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86141|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 13" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 13
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86142|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-name="Cine Pipoca - 14" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 14
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/86143|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 01" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/59512|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 02" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/59513|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 03" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/59514|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 04" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/59515|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 05" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/59516|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY - 06" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",CINE SKY - 06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/81504|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY - 07" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",CINE SKY - 07
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/81505|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY - 08" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",CINE SKY - 08
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/81506|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY - 09" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",CINE SKY - 09
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/81507|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY - 10" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",CINE SKY - 10
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/81508|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax - SD" tvg-logo="http://xsrv.me/logos/img/cinemax.png" group-title="- Filmes e Series",Cinemax - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24828|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax - HD" tvg-logo="http://xsrv.me/logos/img/cinemax.png" group-title="- Filmes e Series",Cinemax - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24826|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax - FHD" tvg-logo="http://xsrv.me/logos/img/cinemax.png" group-title="- Filmes e Series",Cinemax - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24824|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil - SD" tvg-logo="http://xsrv.me/logos/img/cnnbrasil.png" group-title="- News",CNN Brasil - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30277|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil - HD" tvg-logo="http://xsrv.me/logos/img/cnnbrasil.png" group-title="- News",CNN Brasil - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30278|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil - FHD" tvg-logo="http://xsrv.me/logos/img/cnnbrasil.png" group-title="- News",CNN Brasil - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30373|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN Internacional*" tvg-logo="https://seeklogo.com/images/C/cnn-international-logo-FE0A0045ED-seeklogo.com.png" group-title="- News",CNN Internacional*
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/59511|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate - 4K" tvg-logo="http://xsrv.me/logos/img/combate.png" group-title="- Esportes",Combate - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33820|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate - SD" tvg-logo="http://cdnbr.me/logos/img/combate.png" group-title="- Esportes",Combate - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24603|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate - HD" tvg-logo="http://cdnbr.me/logos/img/combate.png" group-title="- Esportes",Combate - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24600|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate - FHD" tvg-logo="http://cdnbr.me/logos/img/combate.png" group-title="- Esportes",Combate - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24598|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central - SD" tvg-logo="http://xsrv.me/logos/img/comedycentral.png" group-title="- Variedades",Comedy Central - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25127|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central - HD" tvg-logo="http://xsrv.me/logos/img/comedycentral.png" group-title="- Variedades",Comedy Central - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25126|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central - FHD" tvg-logo="http://xsrv.me/logos/img/comedycentral.png" group-title="- Variedades",Comedy Central - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33616|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="curta.br" tvg-name="Canal Curta - SD" tvg-logo="http://xsrv.me/logos/img/canalcurta.png" group-title="- Variedades",Canal Curta - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25166|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="curta.br" tvg-name="Canal Curta - HD " tvg-logo="http://xsrv.me/logos/img/canalcurta.png" group-title="- Variedades",Canal Curta - HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25165|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel - SD" tvg-logo="http://cdnbr.me/logos/img/discoverychannel.png" group-title="- Discovery",Discovery Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24968|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel - HD" tvg-logo="http://cdnbr.me/logos/img/discoverychannel.png" group-title="- Discovery",Discovery Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24966|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel - FHD" tvg-logo="http://cdnbr.me/logos/img/discoverychannel.png" group-title="- Discovery",Discovery Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29896|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H - SD" tvg-logo="http://cdnbr.me/logos/img/discoveryheh.png" group-title="- Discovery",Discovery H&H - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24977|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H - HD" tvg-logo="http://cdnbr.me/logos/img/discoveryheh.png" group-title="- Discovery",Discovery H&H - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24975|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryheh.png" group-title="- Discovery",Discovery H&H - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29897|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="Discovery HGTV - SD" tvg-logo="http://cdnbr.me/logos/img/discoveryhgtv.png" group-title="- Discovery",Discovery HGTV - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29391|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="Discovery HGTV - HD" tvg-logo="http://cdnbr.me/logos/img/discoveryhgtv.png" group-title="- Discovery",Discovery HGTV - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29390|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="Discovery HGTV - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryhgtv.png" group-title="- Discovery",Discovery HGTV - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33515|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids - SD" tvg-logo="http://xsrv.me/logos/img/discoverykids.png" group-title="- Infantil",Discovery Kids - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25038|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids - HD" tvg-logo="http://xsrv.me/logos/img/discoverykids.png" group-title="- Infantil",Discovery Kids - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25036|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids - FHD" tvg-logo="http://xsrv.me/logos/img/discoverykids.png" group-title="- Infantil",Discovery Kids - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29894|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science - SD" tvg-logo="http://cdnbr.me/logos/img/discoveryscience.png" group-title="- Discovery",Discovery Science - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24982|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science - HD" tvg-logo="http://cdnbr.me/logos/img/discoveryscience.png" group-title="- Discovery",Discovery Science - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24980|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryscience.png" group-title="- Discovery",Discovery Science - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29893|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater - SD" tvg-logo="http://cdnbr.me/logos/img/discoverytheater.png" group-title="- Discovery",Discovery Theater - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24985|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater - HD" tvg-logo="http://cdnbr.me/logos/img/discoverytheater.png" group-title="- Discovery",Discovery Theater - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24983|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater - FHD" tvg-logo="http://cdnbr.me/logos/img/discoverytheater.png" group-title="- Discovery",Discovery Theater - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29892|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC - SD" tvg-logo="http://cdnbr.me/logos/img/tlc.png" group-title="- Discovery",Discovery TLC - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29902|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC - HD" tvg-logo="http://cdnbr.me/logos/img/tlc.png" group-title="- Discovery",Discovery TLC - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29903|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC - FHD" tvg-logo="http://cdnbr.me/logos/img/tlc.png" group-title="- Discovery",Discovery TLC - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29891|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo - SD" tvg-logo="http://cdnbr.me/logos/img/discoveryturbo.png" group-title="- Discovery",Discovery Turbo - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24991|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo - HD" tvg-logo="http://cdnbr.me/logos/img/discoveryturbo.png" group-title="- Discovery",Discovery Turbo - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24989|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryturbo.png" group-title="- Discovery",Discovery Turbo - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29890|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World - SD" tvg-logo="http://cdnbr.me/logos/img/discoveryworld.png" group-title="- Discovery",Discovery World - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24994|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World - HD" tvg-logo="http://cdnbr.me/logos/img/discoveryworld.png" group-title="- Discovery",Discovery World - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24992|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World -FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryworld.png" group-title="- Discovery",Discovery World -FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29889|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel - 4K" tvg-logo="http://xsrv.me/logos/img/discoverychannel.png" group-title="- Discovery",Discovery Channel - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33803|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel - SD" tvg-logo="http://xsrv.me/logos/img/disneychannel.png" group-title="- Infantil",Disney Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25046|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel - HD" tvg-logo="http://xsrv.me/logos/img/disneychannel.png" group-title="- Infantil",Disney Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25044|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel - FHD" tvg-logo="http://xsrv.me/logos/img/disneychannel.png" group-title="- Infantil",Disney Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25041|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Junior - SD" tvg-logo="http://xsrv.me/logos/img/disneyjunior.png" group-title="- Infantil",Disney Junior - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25055|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Junior - HD" tvg-logo="http://xsrv.me/logos/img/disneyjunior.png" group-title="- Infantil",Disney Junior - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25052|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD - SD" tvg-logo="http://xsrv.me/logos/img/disneyxd.png" group-title="- Infantil",Disney XD - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25063|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD - HD" tvg-logo="http://xsrv.me/logos/img/disneyxd.png" group-title="- Infantil",Disney XD - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25060|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD - FHD" tvg-logo="http://xsrv.me/logos/img/disneyxd.png" group-title="- Infantil",Disney XD - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25058|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! Entertainment - SD" tvg-logo="http://xsrv.me/logos/img/e.png" group-title="- Variedades",E! Entertainment - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25169|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! Entertainment - HD" tvg-logo="http://xsrv.me/logos/img/e.png" group-title="- Variedades",E! Entertainment - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25168|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! Entertainment - FHD " tvg-logo="http://xsrv.me/logos/img/e.png" group-title="- Variedades",E! Entertainment - FHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33617|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="TNT Sports - 01 HD" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 01 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24579|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="TNT Sports - 02 HD" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 02 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29704|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="TNT Sports - 03 HD" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 03 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29705|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 - SD" tvg-logo="http://xsrv.me/logos/img/espn2.png" group-title="- Espn",ESPN 2 - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24642|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 - HD" tvg-logo="http://xsrv.me/logos/img/espn2.png" group-title="- Espn",ESPN 2 - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24640|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 - FHD" tvg-logo="http://xsrv.me/logos/img/espn2.png" group-title="- Espn",ESPN 2 - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24639|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 - SD" tvg-logo="http://xsrv.me/logos/img/espn3.png" group-title="- Espn",ESPN 3 - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24658|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 - HD" tvg-logo="http://xsrv.me/logos/img/espn3.png" group-title="- Espn",ESPN 3 - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24655|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 - FHD" tvg-logo="http://xsrv.me/logos/img/espn3.png" group-title="- Espn",ESPN 3 - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24652|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN - SD" tvg-logo="http://xsrv.me/logos/img/espn.png" group-title="- Espn",ESPN - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24649|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN - HD" tvg-logo="http://xsrv.me/logos/img/espn.png" group-title="- Espn",ESPN - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24646|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN - FHD" tvg-logo="http://xsrv.me/logos/img/espn.png" group-title="- Espn",ESPN - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24643|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra - SD" tvg-logo="http://xsrv.me/logos/img/espnextra.png" group-title="- Espn",ESPN Extra - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24666|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra - HD" tvg-logo="http://xsrv.me/logos/img/espnextra.png" group-title="- Espn",ESPN Extra - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24663|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra - FHD" tvg-logo="http://xsrv.me/logos/img/espnextra.png" group-title="- Espn",ESPN Extra - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24660|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN - 4K" tvg-logo="http://xsrv.me/logos/img/espn.png" group-title="- Espn",ESPN - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33804|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="Fashion TV - FHD" tvg-logo="http://xsrv.me/logos/img/fashiontv.png" group-title="- Variedades",Fashion TV - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33888|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="Fashion TV - HD" tvg-logo="http://xsrv.me/logos/img/fashiontv.png" group-title="- Variedades",Fashion TV - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33889|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="Film & Arts - SD" tvg-logo="http://xsrv.me/logos/img/film&arts.png" group-title="- Variedades",Film & Arts - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25197|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV - SD" tvg-logo="http://xsrv.me/logos/img/fishtv.png" group-title="- Variedades",Fish TV - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25173|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV - HD" tvg-logo="http://xsrv.me/logos/img/fishtv.png" group-title="- Variedades",Fish TV - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25171|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV - FHD" tvg-logo="http://xsrv.me/logos/img/fishtv.png" group-title="- Variedades",Fish TV - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33618|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network - SD" tvg-logo="http://xsrv.me/logos/img/foodnetwork.png" group-title="- Variedades",Food Network - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25132|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network - HD" tvg-logo="http://xsrv.me/logos/img/foodnetwork.png" group-title="- Variedades",Food Network - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25131|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network - FHD" tvg-logo="http://xsrv.me/logos/img/foodnetwork.png" group-title="- Variedades",Food Network - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33619|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Star - SD" tvg-logo="http://xsrv.me/logos/img/starchannel.png" group-title="- Filmes e Series",Star - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24835|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Star - HD" tvg-logo="http://xsrv.me/logos/img/starchannel.png" group-title="- Filmes e Series",Star - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24834|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Star - FHD" tvg-logo="http://xsrv.me/logos/img/starchannel.png" group-title="- Filmes e Series",Star - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24831|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Star Life - SD" tvg-logo="http://xsrv.me/logos/img/starlife.png" group-title="- Filmes e Series",Star Life - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24842|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Star Life - HD" tvg-logo="http://xsrv.me/logos/img/starlife.png" group-title="- Filmes e Series",Star Life - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24840|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Star Life - FHD" tvg-logo="http://xsrv.me/logos/img/starlife.png" group-title="- Filmes e Series",Star Life - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24838|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Star Hits 01 -  SD" tvg-logo="http://xsrv.me/logos/img/starhits.png" group-title="- Filmes e Series",Star Hits 01 -  SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24850|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Star Hits 01 - HD" tvg-logo="http://xsrv.me/logos/img/starhits.png" group-title="- Filmes e Series",Star Hits 01 - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24848|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Star Hits 01 - FHD" tvg-logo="http://xsrv.me/logos/img/starhits.png" group-title="- Filmes e Series",Star Hits 01 - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24845|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Star Hits 02 - SD" tvg-logo="http://xsrv.me/logos/img/starhits2.png" group-title="- Filmes e Series",Star Hits 02 - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24856|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="starhits2.br" tvg-name="Star Hits 02 - HD" tvg-logo="http://xsrv.me/logos/img/starhits2.png" group-title="- Filmes e Series",Star Hits 02 - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24853|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Star Hits 02 - FHD" tvg-logo="http://xsrv.me/logos/img/starhits2.png" group-title="- Filmes e Series",Star Hits 02 - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24851|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 - 4K" tvg-logo="http://xsrv.me/logos/img/espn4.png" group-title="- Espn",ESPN 4 - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33806|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA - HD" tvg-logo="http://cdnbr.me/logos/img/futura.png" group-title="- Abertos [Cortesia]",FUTURA - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24568|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX - SD" tvg-logo="http://xsrv.me/logos/img/fx.png" group-title="- Filmes e Series",FX - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24860|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX - HD" tvg-logo="http://xsrv.me/logos/img/fx.png" group-title="- Filmes e Series",FX - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24859|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX - FHD" tvg-logo="http://xsrv.me/logos/img/fx.png" group-title="- Filmes e Series",FX - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24857|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo SP - São Paulo SD" tvg-logo="http://cdnbr.me/logos/img/globosp.png" group-title="- Globo [Cortesia]",Globo SP - São Paulo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30673|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo SP - São Paulo HD" tvg-logo="http://cdnbr.me/logos/img/globosp.png" group-title="- Globo [Cortesia]",Globo SP - São Paulo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30674|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo SP - São Paulo FHD" tvg-logo="http://cdnbr.me/logos/img/globosp.png" group-title="- Globo [Cortesia]",Globo SP - São Paulo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30675|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo SP - São Paulo 4K" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo SP - São Paulo 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33615|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo SP - Santos HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo SP - Santos HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24459|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo SP - São José Dos Campos HD" tvg-logo="http://cdnbr.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo SP - São José Dos Campos HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/126105|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo SP - Bauru - HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo SP - Bauru - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24452|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo SP - Sococaba HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo SP - Sococaba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24455|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo SP - Campinas HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo SP - Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/32987|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo SP - Araraquara HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo SP - Araraquara HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/34641|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo SP - Mogi (Tv Diario) HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo SP - Mogi (Tv Diario) HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/34643|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo SP - Campinas SD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo SP - Campinas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/32986|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ - Rio de Janeiro SD" tvg-logo="http://cdnbr.me/logos/img/globorio.png" group-title="- Globo [Cortesia]",Globo RJ - Rio de Janeiro SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30676|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ - Rio de Janeiro HD" tvg-logo="http://cdnbr.me/logos/img/globorio.png" group-title="- Globo [Cortesia]",Globo RJ - Rio de Janeiro HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30677|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ - Rio de Janeiro FHD" tvg-logo="http://cdnbr.me/logos/img/globorio.png" group-title="- Globo [Cortesia]",Globo RJ - Rio de Janeiro FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30678|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo RJ - Resende HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo RJ - Resende HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33504|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo RJ - Cabo Frio HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo RJ - Cabo Frio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/35048|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo MG - Belo Horizonte SD" tvg-logo="http://cdnbr.me/logos/img/globominas.png" group-title="- Globo [Cortesia]",Globo MG - Belo Horizonte SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30679|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo MG - Belo Horizonte HD" tvg-logo="http://cdnbr.me/logos/img/globominas.png" group-title="- Globo [Cortesia]",Globo MG - Belo Horizonte HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30680|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo MG - Belo Horizonte FHD" tvg-logo="http://cdnbr.me/logos/img/globominas.png" group-title="- Globo [Cortesia]",Globo MG - Belo Horizonte FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30681|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo MG - Sul de Minas HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo MG - Sul de Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/91821|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo MG - InterTV dos Vales HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo MG - InterTV dos Vales HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24465|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo MG - Araxá HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo MG - Araxá HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29627|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo DF - Brasília SD" tvg-logo="http://cdnbr.me/logos/img/globobrasilia.png" group-title="- Globo [Cortesia]",Globo DF - Brasília SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30682|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo DF - Brasília HD" tvg-logo="http://cdnbr.me/logos/img/globobrasilia.png" group-title="- Globo [Cortesia]",Globo DF - Brasília HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30684|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo PE - Nordeste SD" tvg-logo="http://cdnbr.me/logos/img/globonordeste.png" group-title="- Globo [Cortesia]",Globo PE - Nordeste SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30685|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo PE - Nordeste HD" tvg-logo="http://cdnbr.me/logos/img/globonordeste.png" group-title="- Globo [Cortesia]",Globo PE - Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30686|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo PE - Nordeste FHD" tvg-logo="http://cdnbr.me/logos/img/globonordeste.png" group-title="- Globo [Cortesia]",Globo PE - Nordeste FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30687|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo PR - Curitiba SD" tvg-logo="http://cdnbr.me/logos/img/globorpc.png" group-title="- Globo [Cortesia]",Globo PR - Curitiba SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33414|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo PR - Curitiba HD" tvg-logo="http://cdnbr.me/logos/img/globorpc.png" group-title="- Globo [Cortesia]",Globo PR - Curitiba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33415|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo BA - Salvador SD" tvg-logo="http://cdnbr.me/logos/img/globobahia.png" group-title="- Globo [Cortesia]",Globo BA - Salvador SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/90709|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo BA - Salvador HD" tvg-logo="http://cdnbr.me/logos/img/globobahia.png" group-title="- Globo [Cortesia]",Globo BA - Salvador HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29628|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo GO - Goiânia HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo GO - Goiânia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/38471|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo GO - Goiânia SD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo GO - Goiânia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/38470|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo PR - Maringá HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo PR - Maringá HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/94879|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo PR - Foz do Iguaçu HD" tvg-logo="http://cdnbr.me/logos/img/globorpc.png" group-title="- Globo [Cortesia]",Globo PR - Foz do Iguaçu HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/130990|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo PR - Ponta Grossa HD" tvg-logo="http://cdnbr.me/logos/img/globorpc.png" group-title="- Globo [Cortesia]",Globo PR - Ponta Grossa HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/130991|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo PR - Paranavaí HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo PR - Paranavaí HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/34642|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo SE - Sergipe HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo SE - Sergipe HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/94878|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo SE - Sergipe FHD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo SE - Sergipe FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/34646|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo SC - Joinville HD" tvg-logo="http://cdnbr.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo SC - Joinville HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/114911|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo SC - Florianópolis HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo SC - Florianópolis HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33502|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo SC - Cascavel HD" tvg-logo="http://cdnbr.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo SC - Cascavel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/130993|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo SC - Chapecó HD" tvg-logo="http://cdnbr.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo SC - Chapecó HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/130994|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo SC - Bluemenau HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo SC - Bluemenau HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33503|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo RS - Porto Alegre HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo RS - Porto Alegre HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/38473|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo RS - Porto Alegre SD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo RS - Porto Alegre SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/38472|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo RS - Santa Maria HD" tvg-logo="http://cdnbr.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo RS - Santa Maria HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/130992|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo RS - Caxias do Sul HD" tvg-logo="http://cdnbr.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo RS - Caxias do Sul HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/91342|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo RS - Pelotas HD" tvg-logo="http://cdnbr.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo RS - Pelotas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/91344|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo AM - Manaus HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo AM - Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33506|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo AM - Boa Vista SD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo AM - Boa Vista SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29626|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo MT - Cuiabá SD²" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo MT - Cuiabá SD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24462|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo MT - Cuiabá SD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo MT - Cuiabá SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30683|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo AC - Rio Branco HD" tvg-logo="http://cdnbr.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo AC - Rio Branco HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/130995|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo AL - Alagoas HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo AL - Alagoas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24571|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo CE - Fortaleza HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo CE - Fortaleza HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24456|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo ES - Vitória HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo ES - Vitória HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/95942|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo ES - Itapemirim HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo ES - Itapemirim HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24572|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo MA - Mirante HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo MA - Mirante HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33505|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo MS - Tv Morena HD" tvg-logo="http://cdnbr.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo MS - Tv Morena HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/114812|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo PA - Belém HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo PA - Belém HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24481|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo PB - Cabo Branco HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo PB - Cabo Branco HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/120135|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo PI - Teresina HD" tvg-logo="http://cdnbr.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo PI - Teresina HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/97439|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo RN - Cabugí HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo RN - Cabugí HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/30441|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob - SD" tvg-logo="http://xsrv.me/logos/img/gloob.png" group-title="- Infantil",Gloob - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25076|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob - HD" tvg-logo="http://xsrv.me/logos/img/gloob.png" group-title="- Infantil",Gloob - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25073|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob - FHD" tvg-logo="http://xsrv.me/logos/img/gloob.png" group-title="- Infantil",Gloob - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29899|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho - SD" tvg-logo="http://xsrv.me/logos/img/gloobinho.png" group-title="- Infantil",Gloobinho - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25103|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho - HD" tvg-logo="http://xsrv.me/logos/img/gloobinho.png" group-title="- Infantil",Gloobinho - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25102|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT - SD" tvg-logo="http://xsrv.me/logos/img/gnt.png" group-title="- Variedades",GNT - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25145|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT - HD" tvg-logo="http://xsrv.me/logos/img/gnt.png" group-title="- Variedades",GNT - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25143|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT - FHD" tvg-logo="http://xsrv.me/logos/img/gnt.png" group-title="- Variedades",GNT - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25141|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="history2.br" tvg-name="History 2 - SD" tvg-logo="http://cdnbr.me/logos/img/history2.png" group-title="- Documentários",History 2 - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25008|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="history2.br" tvg-name="History 2 - HD" tvg-logo="http://cdnbr.me/logos/img/history2.png" group-title="- Documentários",History 2 - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25007|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News - HD" tvg-logo="http://xsrv.me/logos/img/globonews.png" group-title="- News",Globo News - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24485|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News - SD" tvg-logo="http://xsrv.me/logos/img/globonews.png" group-title="- News",Globo News - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24488|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Mais GloboSat - HD" tvg-logo="http://xsrv.me/logos/img/maisglobosat.png" group-title="- Variedades",Mais GloboSat - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25136|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Mais GloboSat - SD" tvg-logo="http://xsrv.me/logos/img/maisglobosat.png" group-title="- Variedades",Mais GloboSat - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25138|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO - 4K" tvg-logo="http://xsrv.me/logos/img/hbo.png" group-title="- HBO",HBO - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33807|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO - SD" tvg-logo="http://xsrv.me/logos/img/hbo.png" group-title="- HBO",HBO - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24732|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO - HD" tvg-logo="http://xsrv.me/logos/img/hbo.png" group-title="- HBO",HBO - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24730|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO - FHD" tvg-logo="http://xsrv.me/logos/img/hbo.png" group-title="- HBO",HBO - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24728|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 - SD" tvg-logo="http://xsrv.me/logos/img/hbo2.png" group-title="- HBO",HBO 2 - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24739|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 - HD" tvg-logo="http://xsrv.me/logos/img/hbo2.png" group-title="- HBO",HBO 2 - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24737|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 - FHD" tvg-logo="http://xsrv.me/logos/img/hbo2.png" group-title="- HBO",HBO 2 - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24735|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family - SD" tvg-logo="http://xsrv.me/logos/img/hbofamily.png" group-title="- HBO",HBO Family - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24745|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family - HD" tvg-logo="http://xsrv.me/logos/img/hbofamily.png" group-title="- HBO",HBO Family - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24744|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family - FHD" tvg-logo="http://xsrv.me/logos/img/hbofamily.png" group-title="- HBO",HBO Family - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24742|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus - SD" tvg-logo="http://xsrv.me/logos/img/hboplus.png" group-title="- HBO",HBO Plus - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24751|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus - HD" tvg-logo="http://xsrv.me/logos/img/hboplus.png" group-title="- HBO",HBO Plus - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24749|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus - FHD" tvg-logo="http://xsrv.me/logos/img/hboplus.png" group-title="- HBO",HBO Plus - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24747|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature - SD" tvg-logo="http://xsrv.me/logos/img/hbosignature.png" group-title="- HBO",HBO Signature - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24758|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature - HD" tvg-logo="http://xsrv.me/logos/img/hbosignature.png" group-title="- HBO",HBO Signature - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24756|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature - FHD" tvg-logo="http://xsrv.me/logos/img/hbosignature.png" group-title="- HBO",HBO Signature - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24754|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi -  HD" tvg-logo="http://xsrv.me/logos/img/hbo_mundi.png" group-title="- HBO",HBO Mundi -  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33510|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi - FHD" tvg-logo="http://xsrv.me/logos/img/hbo_mundi.png" group-title="- HBO",HBO Mundi - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33866|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop - HD" tvg-logo="http://xsrv.me/logos/img/hbo_pop.png" group-title="- HBO",HBO Pop - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33512|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop - FHD" tvg-logo="http://xsrv.me/logos/img/hbo_pop.png" group-title="- HBO",HBO Pop - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33865|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme - HD" tvg-logo="http://xsrv.me/logos/img/hbo_xtreme.png" group-title="- HBO",HBO Xtreme - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33511|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme - FHD" tvg-logo="http://xsrv.me/logos/img/hbo_xtreme.png" group-title="- HBO",HBO Xtreme - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33864|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel - SD" tvg-logo="http://cdnbr.me/logos/img/history.png" group-title="- Documentários",History Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25002|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel - HD" tvg-logo="http://cdnbr.me/logos/img/history.png" group-title="- Documentários",History Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25000|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel - FHD" tvg-logo="http://cdnbr.me/logos/img/history.png" group-title="- Documentários",History Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24998|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery - SD" tvg-logo="http://cdnbr.me/logos/img/discoveryid.png" group-title="- Discovery",Investigação Discovery - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24996|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery - HD" tvg-logo="http://cdnbr.me/logos/img/discoveryid.png" group-title="- Discovery",Investigação Discovery - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24995|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryid.png" group-title="- Discovery",Investigação Discovery - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29900|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids" tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="- Infantil",Kuriakos Kids
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/59588|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime - SD" tvg-logo="http://xsrv.me/logos/img/lifetime.png" group-title="- Filmes e Series",Lifetime - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24867|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime - HD" tvg-logo="http://xsrv.me/logos/img/lifetime.png" group-title="- Filmes e Series",Lifetime - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24865|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime - FHD" tvg-logo="http://xsrv.me/logos/img/lifetime.png" group-title="- Filmes e Series",Lifetime - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24863|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="vh1megahits.br" tvg-name="VH1 Mega Hits - SD" tvg-logo="http://xsrv.me/logos/img/vh1.png" group-title="- Variedades",VH1 Mega Hits - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25195|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix - 4K" tvg-logo="http://xsrv.me/logos/img/megapix.png" group-title="- Filmes e Series",Megapix - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33808|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix - SD" tvg-logo="http://xsrv.me/logos/img/megapix.png" group-title="- Filmes e Series",Megapix - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24893|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix - HD" tvg-logo="http://xsrv.me/logos/img/megapix.png" group-title="- Filmes e Series",Megapix - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24892|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix - FHD" tvg-logo="http://xsrv.me/logos/img/megapix.png" group-title="- Filmes e Series",Megapix - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24890|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV - SD" tvg-logo="http://xsrv.me/logos/img/mtv.png" group-title="- Variedades",MTV - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25152|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV - HD" tvg-logo="http://xsrv.me/logos/img/mtv.png" group-title="- Variedades",MTV - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25148|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="MTV - LIVE HD" tvg-logo="http://xsrv.me/logos/img/mtv.png" group-title="- Variedades",MTV - LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25150|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow - 4K" tvg-logo="http://xsrv.me/logos/img/multishow.png" group-title="- Variedades",Multishow - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33809|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow - SD" tvg-logo="http://xsrv.me/logos/img/multishow.png" group-title="- Variedades",Multishow - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25179|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow - HD" tvg-logo="http://xsrv.me/logos/img/multishow.png" group-title="- Variedades",Multishow - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25176|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="Music Box Brasil - SD" tvg-logo="http://xsrv.me/logos/img/musicboxbrasil.png" group-title="- Variedades",Music Box Brasil - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25190|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NatGeo Kids - SD" tvg-logo="http://xsrv.me/logos/img/natgeokids.png" group-title="- Infantil",NatGeo Kids - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25083|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NatGeo Kids - HD" tvg-logo="http://xsrv.me/logos/img/natgeokids.png" group-title="- Infantil",NatGeo Kids - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25081|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NatGeo Wild - SD" tvg-logo="http://cdnbr.me/logos/img/natgeowild.png" group-title="- Documentários",NatGeo Wild - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25013|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NatGeo Wild - HD" tvg-logo="http://cdnbr.me/logos/img/natgeowild.png" group-title="- Documentários",NatGeo Wild - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25012|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NatGeo Wild - FHD" tvg-logo="http://cdnbr.me/logos/img/natgeowild.png" group-title="- Documentários",NatGeo Wild - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25010|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic - SD" tvg-logo="http://cdnbr.me/logos/img/natgeo.png" group-title="- Documentários",National Geographic - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25020|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic - HD" tvg-logo="http://cdnbr.me/logos/img/natgeo.png" group-title="- Documentários",National Geographic - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25019|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic - FHD" tvg-logo="http://cdnbr.me/logos/img/natgeo.png" group-title="- Documentários",National Geographic - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25017|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr. - SD" tvg-logo="http://xsrv.me/logos/img/nickjr.png" group-title="- Infantil",Nick Jr. - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25026|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr. - HD" tvg-logo="http://xsrv.me/logos/img/nickjr.png" group-title="- Infantil",Nick Jr. - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25024|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon - SD" tvg-logo="http://xsrv.me/logos/img/nick.png" group-title="- Infantil",Nickelodeon - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25032|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon - HD" tvg-logo="http://xsrv.me/logos/img/nick.png" group-title="- Infantil",Nickelodeon - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25031|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon - FHD" tvg-logo="http://xsrv.me/logos/img/nick.png" group-title="- Infantil",Nickelodeon - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25029|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Nova Era TV" tvg-logo="http://xsrv.me/logos/img/novaera.png" group-title="- Religiosos",Nova Era TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25203|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV Novo Tempo" tvg-logo="http://xsrv.me/logos/img/tvnovotempo.png" group-title="- Religiosos",TV Novo Tempo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25206|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="off.br" tvg-name="Canal Off - SD" tvg-logo="http://xsrv.me/logos/img/off.png" group-title="- Variedades",Canal Off - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25116|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="off.br" tvg-name="Canal Off - HD" tvg-logo="http://xsrv.me/logos/img/off.png" group-title="- Variedades",Canal Off - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25114|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel - SD" tvg-logo="http://xsrv.me/logos/img/paramountchannel.png" group-title="- Filmes e Series",Paramount Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24899|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel - HD" tvg-logo="http://xsrv.me/logos/img/paramountchannel.png" group-title="- Filmes e Series",Paramount Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24898|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel - FHD" tvg-logo="http://xsrv.me/logos/img/paramountchannel.png" group-title="- Filmes e Series",Paramount Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24896|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes SD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - Clubes SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24677|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - Clubes HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24674|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD²  [Alter]" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - Clubes HD²  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/95729|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD³  [Alter]" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - Clubes HD³  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/120127|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes FHD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - Clubes FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24671|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 2 SD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24682|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 2 HD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24679|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 02 HD²  [Alter]" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 02 HD²  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/120128|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 02 HD³  [Alter]" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 02 HD³  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/120129|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 2 FHD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/34645|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 3 SD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24692|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 3 HD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24689|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 03 HD²  [Alter]" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 03 HD²  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/120130|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 03 HD³  [Alter]" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 03 HD³  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/120131|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 3 FHD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24686|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 4 SD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24700|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 4 HD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24697|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 04 HD²  [Alter]" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 04 HD²  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/120132|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 04 HD³  [Alter]" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 04 HD³  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/120133|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 4 FHD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24694|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere - 5 SD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 5 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24708|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere - 5 HD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24706|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere - 6 SD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 6 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24715|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere - 6 HD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24713|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere - 7 SD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 7 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24721|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere - 7 HD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 7 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24720|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiere8.br" tvg-name="Premiere 8 - SD *" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere 8 - SD *
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24724|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes 4K" tvg-logo="http://xsrv.me/logos/img/premiere.png" group-title="- Premiere",Premiere - Clubes 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33811|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Racing TV" tvg-logo="https://i.imgur.com/R14wlVq.png" group-title="- Esportes",Racing TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/81518|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="RAI Internacional - FHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/260px-Rai_1_-_Logo_2016.svg.png" group-title="- Esportes",RAI Internacional - FHD H264
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/71929|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="RAI Internacional - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/260px-Rai_1_-_Logo_2016.svg.png" group-title="- Esportes",RAI Internacional - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/71930|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record SP - São Paulo 4K" tvg-logo="http://cdnbr.me/logos/img/record.png" group-title="- Record [Cortesia]",Record SP - São Paulo 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33812|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record SP - São Paulo [SD]" tvg-logo="http://cdnbr.me/logos/img/record.png" group-title="- Record [Cortesia]",Record SP - São Paulo [SD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24499|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record SP - São Paulo [HD]" tvg-logo="http://cdnbr.me/logos/img/record.png" group-title="- Record [Cortesia]",Record SP - São Paulo [HD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24498|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record SP - São Paulo [FHD]" tvg-logo="http://cdnbr.me/logos/img/record.png" group-title="- Record [Cortesia]",Record SP - São Paulo [FHD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/84950|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record RJ - Rio de Janeiro [SD]" tvg-logo="http://cdnbr.me/logos/img/record.png" group-title="- Record [Cortesia]",Record RJ - Rio de Janeiro [SD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24511|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record RJ - Rio de Janeiro [HD]" tvg-logo="http://cdnbr.me/logos/img/record.png" group-title="- Record [Cortesia]",Record RJ - Rio de Janeiro [HD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24513|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record BA - Salvador [HD]" tvg-logo="http://cdnbr.me/logos/img/record.png" group-title="- Record [Cortesia]",Record BA - Salvador [HD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24502|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record DF - Brasília [HD]" tvg-logo="http://cdnbr.me/logos/img/record.png" group-title="- Record [Cortesia]",Record DF - Brasília [HD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24509|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News - HD" tvg-logo="http://xsrv.me/logos/img/recordnews.png" group-title="- News",Record News - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24517|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Record News - SD" tvg-logo="http://xsrv.me/logos/img/recordnews.png" group-title="- News",Record News - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29805|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="- Esportes",RedBull TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/62196|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="Rede Gospel" tvg-logo="http://xsrv.me/logos/img/redegospel.png" group-title="- Religiosos",Rede Gospel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25204|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="RedeSuperdeTelevisao.br" tvg-name="Rede Super" tvg-logo="http://cdnbr.me/logos/img/redesuper.png" group-title="- Abertos [Cortesia]",Rede Super
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/83925|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Rede Século 21" tvg-logo="http://xsrv.me/logos/img/seculo21.png" group-title="- Religiosos",Rede Século 21
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25207|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede Tv! - 4K" tvg-logo="http://xsrv.me/logos/img/redetv.png" group-title="- Abertos [Cortesia]",Rede Tv! - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33813|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida - SD" tvg-logo="http://xsrv.me/logos/img/redevida.png" group-title="- Religiosos",Rede Vida - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33613|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida - HD" tvg-logo="http://xsrv.me/logos/img/redevida.png" group-title="- Religiosos",Rede Vida - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33614|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Rit TV" tvg-logo="http://xsrv.me/logos/img/ritgospel.png" group-title="- Religiosos",Rit TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25208|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT - 4K" tvg-logo="http://xsrv.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33798|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP - São Paulo [SD]" tvg-logo="http://xsrv.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT SP - São Paulo [SD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/28183|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP - São Paulo [HD]" tvg-logo="http://xsrv.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT SP - São Paulo [HD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/28180|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP - São Paulo [FHD]" tvg-logo="http://xsrv.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT SP - São Paulo [FHD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/28179|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ - Rio de Janeiro [HD]" tvg-logo="http://xsrv.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT RJ - Rio de Janeiro [HD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/85762|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space - FHD" tvg-logo="http://xsrv.me/logos/img/space.png" group-title="- Filmes e Series",Space - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24903|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space - HD" tvg-logo="http://xsrv.me/logos/img/space.png" group-title="- Filmes e Series",Space - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24905|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space - SD" tvg-logo="http://xsrv.me/logos/img/space.png" group-title="- Filmes e Series",Space - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24906|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - 4K" tvg-logo="http://xsrv.me/logos/img/sportv.png" group-title="- SporTV",SporTv - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33815|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - SD" tvg-logo="http://xsrv.me/logos/img/sportv.png" group-title="- SporTV",SporTv - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24613|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - HD" tvg-logo="http://xsrv.me/logos/img/sportv.png" group-title="- SporTV",SporTv - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24610|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - FHD" tvg-logo="http://xsrv.me/logos/img/sportv.png" group-title="- SporTV",SporTv - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24607|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - SD" tvg-logo="http://xsrv.me/logos/img/sportv2.png" group-title="- SporTV",SporTv 2 - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24620|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - HD" tvg-logo="http://xsrv.me/logos/img/sportv2.png" group-title="- SporTV",SporTv 2 - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24617|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - FHD" tvg-logo="http://xsrv.me/logos/img/sportv2.png" group-title="- SporTV",SporTv 2 - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24615|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv  3 - SD" tvg-logo="http://chronostv.com/logos/img/sportv3.png" group-title="- SporTV",SporTv  3 - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24628|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv 3 - HD" tvg-logo="http://xsrv.me/logos/img/sportv3.png" group-title="- SporTV",SporTv 3 - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24625|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv 3 - FHD" tvg-logo="http://xsrv.me/logos/img/sportv3.png" group-title="- SporTV",SporTv 3 - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24623|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal - SD" tvg-logo="http://xsrv.me/logos/img/studiouniversal.png" group-title="- Filmes e Series",Studio Universal - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24910|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal - HD" tvg-logo="http://xsrv.me/logos/img/studiouniversal.png" group-title="- Filmes e Series",Studio Universal - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24909|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal - FHD" tvg-logo="http://xsrv.me/logos/img/studiouniversal.png" group-title="- Filmes e Series",Studio Universal - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24908|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy - SD" tvg-logo="http://xsrv.me/logos/img/syfy.png" group-title="- Filmes e Series",Syfy - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24917|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy - HD" tvg-logo="http://xsrv.me/logos/img/syfy.png" group-title="- Filmes e Series",Syfy - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24915|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy - FHD" tvg-logo="http://xsrv.me/logos/img/syfy.png" group-title="- Filmes e Series",Syfy - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24913|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS - SD" tvg-logo="http://xsrv.me/logos/img/tbs.png" group-title="- Filmes e Series",TBS - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24923|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS - HD" tvg-logo="http://xsrv.me/logos/img/tbs.png" group-title="- Filmes e Series",TBS - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24921|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS - FHD" tvg-logo="http://xsrv.me/logos/img/tbs.png" group-title="- Filmes e Series",TBS - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24919|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC - Action - SD" tvg-logo="http://xsrv.me/logos/img/tcaction.png" group-title="- Telecine",TC - Action - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24765|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC - Action - HD" tvg-logo="http://xsrv.me/logos/img/tcaction.png" group-title="- Telecine",TC - Action - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24763|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Tc - Action - FHD" tvg-logo="http://xsrv.me/logos/img/tcaction.png" group-title="- Telecine",Tc - Action - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24760|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC - Cult - SD" tvg-logo="http://xsrv.me/logos/img/tccult.png" group-title="- Telecine",TC - Cult - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24770|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC - Cult - HD" tvg-logo="http://xsrv.me/logos/img/tccult.png" group-title="- Telecine",TC - Cult - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24769|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC - Cult - FHD" tvg-logo="http://xsrv.me/logos/img/tccult.png" group-title="- Telecine",TC - Cult - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/29901|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC - Fun -  SD" tvg-logo="http://xsrv.me/logos/img/tcfun.png" group-title="- Telecine",TC - Fun -  SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24777|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC - Fun -  HD" tvg-logo="http://xsrv.me/logos/img/tcfun.png" group-title="- Telecine",TC - Fun -  HD|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24775
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC - Fun -  FHD" tvg-logo="http://xsrv.me/logos/img/tcfun.png" group-title="- Telecine",TC - Fun -  FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24773|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC - Pipoca - SD" tvg-logo="http://xsrv.me/logos/img/tcpipoca.png" group-title="- Telecine",TC - Pipoca - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24784|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC - Pipoca - HD" tvg-logo="http://xsrv.me/logos/img/tcpipoca.png" group-title="- Telecine",TC - Pipoca - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24782|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC - Pipoca - FHD" tvg-logo="http://xsrv.me/logos/img/tcpipoca.png" group-title="- Telecine",TC - Pipoca - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24780|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC - Premium - SD" tvg-logo="http://xsrv.me/logos/img/tcpremium.png" group-title="- Telecine",TC - Premium - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24790|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC - Premium - HD" tvg-logo="http://xsrv.me/logos/img/tcpremium.png" group-title="- Telecine",TC - Premium - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24788|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC - Premium - FHD" tvg-logo="http://xsrv.me/logos/img/tcpremium.png" group-title="- Telecine",TC - Premium - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24786|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC - Touch - SD" tvg-logo="http://xsrv.me/logos/img/tctouch.png" group-title="- Telecine",TC - Touch - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24796|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC - Touch - HD" tvg-logo="http://xsrv.me/logos/img/tctouch.png" group-title="- Telecine",TC - Touch - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24794|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC - Touch - FHD" tvg-logo="http://xsrv.me/logos/img/tctouch.png" group-title="- Telecine",TC - Touch - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24792|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM - SD" tvg-logo="http://xsrv.me/logos/img/tcm.png" group-title="- Filmes e Series",TCM - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25162|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM - HD" tvg-logo="http://xsrv.me/logos/img/tcm.png" group-title="- Filmes e Series",TCM - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25161|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM - FHD" tvg-logo="http://xsrv.me/logos/img/tcm.png" group-title="- Filmes e Series",TCM - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/34647|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC Premium - 4K" tvg-logo="http://xsrv.me/logos/img/tcpremium.png" group-title="- Telecine",TC Premium - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33816|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT - 4K" tvg-logo="http://xsrv.me/logos/img/tnt.png" group-title="- Filmes e Series",TNT - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33817|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT - SD" tvg-logo="http://xsrv.me/logos/img/tnt.png" group-title="- Filmes e Series",TNT - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24931|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT - HD" tvg-logo="http://xsrv.me/logos/img/tnt.png" group-title="- Filmes e Series",TNT - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24929|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT - FHD" tvg-logo="http://xsrv.me/logos/img/tnt.png" group-title="- Filmes e Series",TNT - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24927|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series - SD" tvg-logo="http://xsrv.me/logos/img/tntseries.png" group-title="- Filmes e Series",TNT Series - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24939|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series - HD" tvg-logo="http://xsrv.me/logos/img/tntseries.png" group-title="- Filmes e Series",TNT Series - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24937|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series - FHD" tvg-logo="http://xsrv.me/logos/img/tntseries.png" group-title="- Filmes e Series",TNT Series - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24934|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series - 4K" tvg-logo="http://xsrv.me/logos/img/tntseries.png" group-title="- Filmes e Series",TNT Series - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33818|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="ToonCast - SD" tvg-logo="http://xsrv.me/logos/img/tooncast.png" group-title="- Infantil",ToonCast - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25183|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="ToonCast - HD" tvg-logo="http://xsrv.me/logos/img/tooncast.png" group-title="- Infantil",ToonCast - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25182|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida - SD" tvg-logo="http://xsrv.me/logos/img/tvaparecida.png" group-title="- Religiosos",TV Aparecida - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25199|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="TVAparecida.br(m3u4u)" tvg-name="TV Aparecida- HD" tvg-logo="http://xsrv.me/logos/img/tvaparecida.png" group-title="- Religiosos",TV Aparecida- HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25198|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida - FHD" tvg-logo="http://xsrv.me/logos/img/tvaparecida.png" group-title="- Religiosos",TV Aparecida - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33882|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="TV Assembleia PR" tvg-name="TV Assembleia" tvg-logo="https://4.bp.blogspot.com/-IBw75oJvHK8/XpYdS3OMZgI/AAAAAAAACxY/KL2KzKA8cwsY09k22eN702DDLEWrwkRNgCK4BGAYYCw/s400/TV%2BASEMBLEIA.png" group-title="- Religiosos",TV Assembleia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33959|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV Boa Vontade" tvg-logo="http://xsrv.me/logos/img/boavontade.png" group-title="- Religiosos",TV Boa Vontade
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25205|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA - SD" tvg-logo="http://cdnbr.me/logos/img/cultura.png" group-title="- Abertos [Cortesia]",TV CULTURA - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/34632|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA - HD" tvg-logo="http://cdnbr.me/logos/img/cultura.png" group-title="- Abertos [Cortesia]",TV CULTURA - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/34633|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA - FHD" tvg-logo="http://cdnbr.me/logos/img/cultura.png" group-title="- Abertos [Cortesia]",TV CULTURA - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/34634|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="https://1.bp.blogspot.com/-U4SJ0QX3lts/XpYaGWWXXRI/AAAAAAAACxA/NZM1vivsHpM4tvgvlqrw8lfUWydFBkdlgCK4BGAYYCw/s400/tv%2Bevangeliz.png" group-title="- Religiosos",TV Evangelizar
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33958|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta - 4K" tvg-logo="http://xsrv.me/logos/img/gazeta.png" group-title="- Abertos [Cortesia]",TV Gazeta - 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33799|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta - HD" tvg-logo="http://cdnbr.me/logos/img/gazeta.png" group-title="- Abertos [Cortesia]",TV Gazeta - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/84949|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="tvjustica.br" tvg-name="TV JUSTIÇA - HD" tvg-logo="http://xsrv.me/logos/img/tvjustica.png" group-title="- Abertos [Cortesia]",TV JUSTIÇA - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33884|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV Mundial - HD" tvg-logo="http://xsrv.me/logos/img/tvmundial.png" group-title="- Religiosos",TV Mundial - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33885|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="TVNovoTempo.br(m3u4u)" tvg-name="TV Novo Tempo - FHD" tvg-logo="http://xsrv.me/logos/img/tvnovotempo.png" group-title="- Religiosos",TV Novo Tempo - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33886|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="TV Pai Eterno" tvg-logo="http://mytv.tv.br/canais/tvpaieterno.png" group-title="- Religiosos",TV Pai Eterno
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/33957|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV Rá-Tim-Bum - SD" tvg-logo="http://xsrv.me/logos/img/ratimbum.png" group-title="- Infantil",TV Rá-Tim-Bum - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25099|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV Rá-Tim-Bum - HD" tvg-logo="http://xsrv.me/logos/img/ratimbum.png" group-title="- Infantil",TV Rá-Tim-Bum - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25097|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV Rede Super" tvg-logo="http://xsrv.me/logos/img/redesuper.png" group-title="- Religiosos",TV Rede Super
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/83926|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Universal Channel - SD" tvg-logo="http://xsrv.me/logos/img/universalchannel.png" group-title="- Filmes e Series",Universal Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24945|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal Channel - HD" tvg-logo="http://xsrv.me/logos/img/universalchannel.png" group-title="- Filmes e Series",Universal Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24944|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Universal Channel - FHD" tvg-logo="http://xsrv.me/logos/img/universalchannel.png" group-title="- Filmes e Series",Universal Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24941|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="Universal TV" tvg-logo="http://cdnbr.me/logos/img/tvuniversal.png" group-title="- Religiosos",Universal TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/83924|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Canal Viva - SD" tvg-logo="http://xsrv.me/logos/img/canalviva.png" group-title="- Variedades",Canal Viva - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25157|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Canal Viva - HD" tvg-logo="http://xsrv.me/logos/img/canalviva.png" group-title="- Variedades",Canal Viva - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25155|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel - SD" tvg-logo="http://xsrv.me/logos/img/warnerchannel.png" group-title="- Filmes e Series",Warner Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24952|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel - HD" tvg-logo="http://xsrv.me/logos/img/warnerchannel.png" group-title="- Filmes e Series",Warner Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24950|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel - FHD" tvg-logo="http://xsrv.me/logos/img/warnerchannel.png" group-title="- Filmes e Series",Warner Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24947|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo - SD" tvg-logo="http://xsrv.me/logos/img/woohoo.png" group-title="- Variedades",Woohoo - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25189|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo - SD" tvg-logo="http://chronostv.com/logos/img/zoomoo.png" group-title="- Infantil",Zoomoo - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25105|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo - HD" tvg-logo="http://chronostv.com/logos/img/zoomoo.png" group-title="- Infantil",Zoomoo - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/25104|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name=" TV GAZETA  4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXQ3pYiuvmQlsTorEzdkSiwX9kDYuAHEfcV1SCMShjYZQlp_lRK-2wKQvXj_DxwkduFg&usqp=CAU" group-title="TV ABERTA", TV GAZETA  4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/551
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",3 PALAVRINHAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/670
+#EXTINF:-1 tvg-id="" tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",A CASA DO MICKEY MOUSE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/671
+#EXTINF:-1 tvg-id="" tvg-name="A MANSAO FOSTER" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",A MANSAO FOSTER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/674
+#EXTINF:-1 tvg-id="" tvg-name="A RODA DO ONIBUS " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",A RODA DO ONIBUS 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/675
+#EXTINF:-1 tvg-id="a2e9fcaee0175ea43284b3fadfa8e649" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="FILMES & SERIES",A&E 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/225
+#EXTINF:-1 tvg-id="a2e9fcaee0175ea43284b3fadfa8e649" tvg-name="A&E HD" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="FILMES & SERIES",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/226
+#EXTINF:-1 tvg-id="a2e9fcaee0175ea43284b3fadfa8e649" tvg-name="A&E PLAYBACK" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="PLAYBACK",A&E PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/913
+#EXTINF:-1 tvg-id="" tvg-name="AGRO+ 4K" tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg" group-title="NOTICIAS",AGRO+ 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/852
+#EXTINF:-1 tvg-id="" tvg-name="ALADDIN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",ALADDIN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/676
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC 4K" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="FILMES & SERIES",AMC 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/228
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC DUAL " tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="CANAIS DUAL AUDIO ",AMC DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/790
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HD" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="FILMES & SERIES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/229
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="PLAYBACK",AMC PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/918
+#EXTINF:-1 tvg-id="476c98e227890f9477494c87171291cb" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/61
+#EXTINF:-1 tvg-id="476c98e227890f9477494c87171291cb" tvg-name="ANIMAL PLANET HD" tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/62
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HDR+" tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="CANAIS HDR+",ANIMAL PLANET HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/994
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET LT" tvg-logo="https://e7.pngegg.com/pngimages/94/673/png-cliphttp://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.pngart-animal-planet-television-channel-animal-logo-television-text.png" group-title="LATINOS",ANIMAL PLANET LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/871
+#EXTINF:-1 tvg-id="" tvg-name="AQUI NA FAZENDA MAIARA HD" tvg-logo="https://img2.gratispng.com/20180526/pga/kisspng-show-tv-turkey-television-show-logo-tv-5b08fbf9e0a0c0.3094832015273154499201.jpg" group-title="ENTRETENIMENTO",AQUI NA FAZENDA MAIARA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/853
+#EXTINF:-1 tvg-id="" tvg-name="AQUI NA FAZENDA RATINHO HD " tvg-logo="https://img2.gratispng.com/20180526/pga/kisspng-show-tv-turkey-television-show-logo-tv-5b08fbf9e0a0c0.3094832015273154499201.jpg" group-title="ENTRETENIMENTO",AQUI NA FAZENDA RATINHO HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/854
+#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 4K" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="FILMES & SERIES",ARTE 1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/231
+#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 HD" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="FILMES & SERIES",ARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/232
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DO BATMAN " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",AS AVENTURAS DO BATMAN 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/677
+#EXTINF:-1 tvg-id="ae9b072c84284681d992d96359460c90" tvg-name="AXN 4K" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="FILMES & SERIES",AXN 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/233
+#EXTINF:-1 tvg-id="ae9b072c84284681d992d96359460c90" tvg-name="AXN HD" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="FILMES & SERIES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/234
+#EXTINF:-1 tvg-id="ae9b072c84284681d992d96359460c90" tvg-name="AXN PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="PLAYBACK",AXN PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/917
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BABY TV 4K " tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS",BABY TV 4K 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/767
+#EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV HD" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS",BABY TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/342
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Babytv.jpg/revision/latest?cb=20160820183751&path-prefix=es" group-title="PORTUGAL ",BABY TV PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/881
+#EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND MINAS UHD" tvg-logo="http://toptv2.com:25461/logos/band_minas_UHD.png" group-title="TV ABERTA",BAND MINAS UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/481
+#EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS 4K" tvg-logo="http://toptv2.com:25461/logos/Band_news_UHD.png" group-title="NOTICIAS",BAND NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/482
+#EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS HD" tvg-logo="http://toptv2.com:25461/logos/Band_news_UHD.png" group-title="NOTICIAS",BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/432
+#EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND NORDESTE UHD" tvg-logo="http://toptv2.com:25461/logos/band_NORDESTE_UHD.png" group-title="TV ABERTA",BAND NORDESTE UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/483
+#EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" tvg-name="BAND SP 4k" tvg-logo="http://toptv2.com:25461/logos/band_SP_4K.png" group-title="TV ABERTA",BAND SP 4k
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/484
+#EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" tvg-name="BAND SP HD" tvg-logo="http://toptv2.com:25461/logos/band_SP_4K.png" group-title="TV ABERTA",BAND SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/485
+#EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS 4K" tvg-logo="http://toptv2.com:25461/logos/bandsports-4K.png" group-title="ESPORTES",BAND SPORTS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/120
+#EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS HD" tvg-logo="http://toptv2.com:25461/logos/bandsports-4K.png" group-title="ESPORTES",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/121
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ENTRETENIMENTO",BBB 22 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/943
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ENTRETENIMENTO",BBB 22 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/944
+#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",BBB MOSAICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/981
+#EXTINF:-1 tvg-id="" tvg-name="BBB PRINCIPAL" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",BBB PRINCIPAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/982
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/901
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/902
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/903
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/904
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 5 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/905
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 6 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/906
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/907
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",BEN 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/678
+#EXTINF:-1 tvg-id="aa4fa98423e14ecd6154eaaa770d2f80" tvg-name="BIS 4K" tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="MUSICA",BIS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/419
+#EXTINF:-1 tvg-id="aa4fa98423e14ecd6154eaaa770d2f80" tvg-name="BIS HD" tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="MUSICA",BIS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/420
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",BOB ESPONJA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/679
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG LT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="LATINOS",BOOMERANG LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/862
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA 02" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/971
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA 04 PISCINA" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 04 PISCINA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/973
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA 05 JARDIM" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 05 JARDIM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/974
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA 06 CHUVEIRO" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 06 CHUVEIRO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/975
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA 07 ACADEMIA" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 07 ACADEMIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/976
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA 08 SALA" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 08 SALA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/977
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA 09 QUARTO GRUNGE" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 09 QUARTO GRUNGE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/978
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA 10 COZINHA" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 10 COZINHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/979
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA 11 QUARTO LOLLIPOP" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 11 QUARTO LOLLIPOP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/980
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1 HD" tvg-logo="http://xplussport.com:8080/images/6e197f40d47f9f043e0f69365f6246d5.png" group-title="ESPORTES ONLINE",CAMPEONATO CARIOCA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/986
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2 HD" tvg-logo="http://xplussport.com:8080/images/6e197f40d47f9f043e0f69365f6246d5.png" group-title="ESPORTES ONLINE",CAMPEONATO CARIOCA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/987
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 3 HD" tvg-logo="http://xplussport.com:8080/images/6e197f40d47f9f043e0f69365f6246d5.png" group-title="ESPORTES ONLINE",CAMPEONATO CARIOCA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/988
+#EXTINF:-1 tvg-id="6e57d77806b180634ba62a9c1d5dbc8b" tvg-name="CANAL BOI HD" tvg-logo="http://185.53.90.49:41001/logos/canal boi.png" group-title="TV ABERTA",CANAL BOI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/486
+#EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL 4K" tvg-logo="http://toptv2.com:25461/logos/CANAL_BRASIL_4K.png" group-title="FILMES & SERIES",CANAL BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/236
+#EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/CANAL_BRASIL_4K.png" group-title="FILMES & SERIES",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/237
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA PT" tvg-logo="http://xplussport.com:8080/images/a721f8e803564008cb6cb5e32d68f387.png" group-title="PORTUGAL ",CANAL PANDA PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/887
+#EXTINF:-1 tvg-id="4a1989c97bf28cdc047161fa0253d893" tvg-name="CANCAO NOVA HD" tvg-logo="http://toptv2.com:25461/logos/cancaao-nova.png" group-title="ENTRETENIMENTO",CANCAO NOVA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/96
+#EXTINF:-1 tvg-id="4a1989c97bf28cdc047161fa0253d893" tvg-name="CANCAO NOVA UHD" tvg-logo="http://toptv2.com:25461/logos/cancaao-nova.png" group-title="ENTRETENIMENTO",CANCAO NOVA UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/97
+#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="INFANTIS",CARTOON NETWORK 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/346
+#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK HD" tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="INFANTIS",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/347
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HDR+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="CANAIS HDR+",CARTOON NETWORK HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/1002
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK LT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="LATINOS",CARTOON NETWORK LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/855
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK PT" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-2.png" group-title="PORTUGAL ",CARTOON NETWORK PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/882
+#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO 4K" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS",CARTOONITO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/344
+#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO HD" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS",CARTOONITO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/345
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODIACO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",CAVALEIROS DO ZODIACO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/680
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS COMEDIA",CHAVES 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/682
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 1 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/754
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 10 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/764
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 11 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 11 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/809
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 12 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 12 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/810
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 13 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 13 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/811
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 14 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 14 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/812
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 15 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 15 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/813
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/755
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/756
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 4 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/757
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/758
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 6 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/760
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 7 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/761
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 8 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/762
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 9 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/763
+#EXTINF:-1 tvg-id="a7859a4a1c7f67b8a96942487dbb3468" tvg-name="CINEMAX 4K" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES & SERIES",CINEMAX 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/239
+#EXTINF:-1 tvg-id="a7859a4a1c7f67b8a96942487dbb3468" tvg-name="CINEMAX HD" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES & SERIES",CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/240
+#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL 4K" tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_HD.png" group-title="NOTICIAS",CNN BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/433
+#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_HD.png" group-title="NOTICIAS",CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/434
+#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_HD.png" group-title="PLAYBACK",CNN BRASIL PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/936
+#EXTINF:-1 tvg-id="5be2136ed519c135699791e245ad9433" tvg-name="CNN ESPANHOL" tvg-logo="http://toptv2.com:25461/logos/cnn_espa.png" group-title="NOTICIAS",CNN ESPANHOL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/436
+#EXTINF:-1 tvg-id="c0879c01cbcfdfe09899bd8a756722aa" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="http://toptv2.com:25461/logos/cnn-international_HD.png" group-title="NOTICIAS",CNN INTERNACIONAL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/438
+#EXTINF:-1 tvg-id="52e622950dcda02c65c715cd25ee7073" tvg-name="COMBATE 4K" tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png" group-title="ESPORTES",COMBATE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/122
+#EXTINF:-1 tvg-id="52e622950dcda02c65c715cd25ee7073" tvg-name="COMBATE HD" tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png" group-title="ESPORTES",COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/123
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE HDR+" tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png" group-title="CANAIS HDR+",COMBATE HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/1001
+#EXTINF:-1 tvg-id="52e622950dcda02c65c715cd25ee7073" tvg-name="COMBATE PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png" group-title="PLAYBACK",COMBATE PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/934
+#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL 4K" tvg-logo="http://toptv2.com:25461/logos/Comedy_Central.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/99
+#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://toptv2.com:25461/logos/Comedy_Central.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/98
+#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/Comedy_Central.png" group-title="PLAYBACK",COMEDY CENTRAL PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/924
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 4K" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTES ONLINE",CONMEBOL TV 1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/193
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 4K " tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTES ONLINE",CONMEBOL TV 2 4K 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/820
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 4K" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTES ONLINE",CONMEBOL TV 3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/194
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 4K" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTES ONLINE",CONMEBOL TV 4 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/195
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV1 HD" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTES ONLINE",CONMEBOL TV1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/196
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV2 HD" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTES ONLINE",CONMEBOL TV2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/198
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV3 HD" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTES ONLINE",CONMEBOL TV3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/199
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV4 HD" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTES ONLINE",CONMEBOL TV4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/200
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 1 HD" tvg-logo="https://www.lance.com.br/files/article_main/uploads/2021/04/12/607442da6a8bd.png" group-title="ESPORTES ONLINE",COPA NORDESTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/201
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 2 HD" tvg-logo="https://www.lance.com.br/files/article_main/uploads/2021/04/12/607442da6a8bd.png" group-title="ESPORTES ONLINE",COPA NORDESTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/202
+#EXTINF:-1 tvg-id="76ee0cab054dfa3a2e6ed9783d82d598" tvg-name="CURTA HD" tvg-logo="http://toptv2.com:25461/logos/curta_HD.png" group-title="ENTRETENIMENTO",CURTA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/100
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/206
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/821
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/205
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/822
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/204
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/823
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/824
+#EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/65
+#EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/66
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL LT" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="LATINOS",DISCOVERY CHANNEL LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/870
+#EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL PLAYBACK" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="PLAYBACK",DISCOVERY CHANNEL PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/921
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL PT" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="PORTUGAL ",DISCOVERY CHANNEL PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/892
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION LT" tvg-logo="https://1.bp.blogspot.com/-xDR9E6uDt7A/XNhOPLuM5yI/AAAAAAAAT3E/rO2-hV3Cqos-MTOSPK-4wcxPtjx30IbcQCLcBGAs/s1600/discoverycivilizationb.png" group-title="LATINOS",DISCOVERY CIVILIZATION LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/869
+#EXTINF:-1 tvg-id="9f69a7aab7bc08a257f8c70537c0f3fc" tvg-name="DISCOVERY H&H  PLAYBACK" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="PLAYBACK",DISCOVERY H&H  PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/922
+#EXTINF:-1 tvg-id="9f69a7aab7bc08a257f8c70537c0f3fc" tvg-name="DISCOVERY H&H 4K" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="DOCUMENTARIOS",DISCOVERY H&H 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/67
+#EXTINF:-1 tvg-id="9f69a7aab7bc08a257f8c70537c0f3fc" tvg-name="DISCOVERY H&H HD" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="DOCUMENTARIOS",DISCOVERY H&H HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/68
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME&HEALTH LT" tvg-logo="https://www.southerncable.bz/wp-content/uploads/2017/03/h_h-logo-01.png" group-title="LATINOS",DISCOVERY HOME&HEALTH LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/863
+#EXTINF:-1 tvg-id="ae49728b553d30a8864c6ea86f1dd244" tvg-name="DISCOVERY ID 4K" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="DOCUMENTARIOS",DISCOVERY ID 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/69
+#EXTINF:-1 tvg-id="ae49728b553d30a8864c6ea86f1dd244" tvg-name="DISCOVERY ID HD" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="DOCUMENTARIOS",DISCOVERY ID HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/70
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID PT" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="PORTUGAL ",DISCOVERY ID PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/894
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGATION LT" tvg-logo="https://seeklogo.com/images/I/investigation-discovery-logo-D8839FBD94-seeklogo.com.png" group-title="LATINOS",DISCOVERY INVESTIGATION LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/864
+#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="INFANTIS",DISCOVERY KIDS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/348
+#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="INFANTIS",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/349
+#EXTINF:-1 tvg-id="6c36a751ceba37796879f2c63a919b5c" tvg-name="DISCOVERY SCIENCE 4k" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE 4k
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/71
+#EXTINF:-1 tvg-id="6c36a751ceba37796879f2c63a919b5c" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/72
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SHOWCASE PT" tvg-logo="http://xplussport.com:8080/images/ac3004859ac7074f4c6e1e52d9bcdbd5.png" group-title="PORTUGAL ",DISCOVERY SHOWCASE PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/893
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TEATHER LT " tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="LATINOS",DISCOVERY TEATHER LT 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/866
+#EXTINF:-1 tvg-id="36c2f4fcb3bdb824f77795aab4ae42b3" tvg-name="DISCOVERY THEATER 4K" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/73
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/74
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC LT" tvg-logo="https://www.pngfind.com/pngs/m/682-6829120_discovery-channel-png-download-discovery-tlc-logo-png.png" group-title="LATINOS",DISCOVERY TLC LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/867
+#EXTINF:-1 tvg-id="db5244cc5810ef5c7920ea77642eb947" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/75
+#EXTINF:-1 tvg-id="db5244cc5810ef5c7920ea77642eb947" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/76
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO LT" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="LATINOS",DISCOVERY TURBO LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/868
+#EXTINF:-1 tvg-id="83980477dcbd1bc6f3ba92c5e7356c59" tvg-name="DISCOVERY WORLD 4K" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/77
+#EXTINF:-1 tvg-id="83980477dcbd1bc6f3ba92c5e7356c59" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/78
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD LT" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="LATINOS",DISCOVERY WORLD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/865
+#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL  4K" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL  4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/351
+#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/352
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL LT" tvg-logo="https://www.pikpng.com/pngl/m/429-4290831_disney-channel-png-disney-channel-transparent-png-clipart.png" group-title="LATINOS",DISNEY CHANNEL LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/856
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL PT" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUEAAACdCAMAAAAdWzrjAAAA9lBMVEX+/v4Ah/3t7e3////s7OwAh/7//v729vb5+fnz8/Pw8PAAhf74+PgAgvoAgPj8///0//8Af/Ty//8Af/EAg/4Af+7r/v8Ag+4AffAAhO0AgfXo+v8Ag/IAfO0AfunA6PpyuPPa9/6w2/jR8/7s8/a84fh9v/dHnezc8/xjr/NdresbiuoTie+JxfNMn+ni//+c0vbG7PiVzvnP6Pig1PM9m/F1uuuLxfBNpPOz4Poei+2SxvNjr+krkexbq/IAePRytvfF4Pat1viSy+1+v+hptOm03/Gv1O2XwuFNl9Tk8flDmeWjzfaj4vosm/na7Poik/uwzt+TDE43AAAgAElEQVR4nO19CWPayLIudrtlG0USArEZzL4jMAYLG2KRxJ743Ovkju/7/3/mdVUvWkAYZ5Icn7nTZ04SoaWlT9W1VylFUjDI2TEfZ7hNUmLzVOxO88202DwVu1PRoz+I3WLzXGyei+2/51QpMc5OcPPkTGyLzaS5xO7YyfvnOiF/x6n+QfAfBP/dU/2D4D8I/runEnKHSa0TdvzJyYmUWicn0blg7/FJaC48PKWOPonMhVsnai5+rZO/5VTHqTM+Ppzz8UFsi83T6Oa52DyNHv3KyafRk/9mU6XgFZ0Asnyk+eax2PzAN9lrwZESm6ditzg5LTbPxW6xeSY2z8T2yd9yqlTC6habH34GIxEnk5O/41SpfxD8B8F3juDpb3+sY340+ZsgqKm5tD1znfzsx9J+z8v6WQjulVpnx2kcRO5mA+faKbVOf5+AfD9TKX0wjcpNOlB+Tk872Zf6081t7/NwM4TxudGbzG6e6oNspvPhlOlDaXHw2dbJUT1L7E6YKr1fSYue/DOmSv/Mqc4Dm0TQJtvWCLEGX77fe241Z9umAcNx8C/Dtu1crrj2RsvvXxYDi70DTVM8K6K9H8e09+OTHVNF1pBQv/atoZ81lViuJ3uY0IFTbdvFDBBy1br3cww5ekQpPYLB/+T/ojAAzLK/mbTaBYtox7G5dnKh/cZqOtNsTRqfG/OHRSf9Ohd6R3ZxHEFi1T+7tkMldvEhf0UcdcfMr+8mT4vOeRrnsn7wsdLPs37NdGDYtbvZc/o/EEGxnalPc0YcO30nlhJJx8iVva8PL530Dz9W+kvf1iW5U/3Cf+j8xyHIBXz6pbGN35GuUz70GGGG6NGw3c33Joimtz6WdnLcmZd1GmIVVM+Nnv9jEBSKHx6e7vqmHsDD+Z1pVouu667Z/8vFC9MEyaLvWORUN2p3NxUmWsRcr7J3+VjPDZsehS/HtkyvSQ5/rIOn+usIJksSBNDVFVnpjmFXXe/rY2sxqMgxGCy6D4/LO7+Ysw09OBifX2cn2etG24q9rVRUn1UMQz5WBwCUrFWBaPgFPF4F0KInf0jtIozXphKbp6ldCP7gVGGNuunr8lEc22UCop0lu4dVuV717tZ509GDZ+ZnGrn+9+xBaq7wGnXmNgLH5sznS6Yj2aHTf/5pGvX5r9SoFW1qmanBqYnq+emqQFDXS+0aoPEwGLPth8a3omlwAALqtf05LOYEU+skykjSrTyeabi9Vbtdnw1dU0BoNjpsN1MOLFA7f8SqO/m9djGZ4a0jD6pbAjwrBp34QVM4ZgatJeiOOlWrma1n0+21SZwL7TZWn30d4do0BXk3eznxKqrd85eb3qbv3Q1v68+dtyP4mz0LzaJ496VJhkkDaxu/XUPDh74Zri8NPSQMqFna1LPpvY+Fe9NzZIJ2g70zecG6qyNTMO4aRZuJLV1n4sxtLDrvHMGGgRRE8zegkhCJ0O51HB0MxUK95+VNyUfhf8AQn9PHgWNn52NxEnT6WTGhBhjWc+I6BsgWyWDd3vM7RvDkvFnm7Cx3A8TAOd32kIBu4cr2Zdu3nq0okXKGyDDc+1hd4II0d00iF+sZR9uDcZdF+j0iKOTQ3OR3OQFXAZMSg/rD4x/L+9FodP91+cftfNaqtweFrJUsYOC09sQvGSHN2Fx/fEnvEZDpjw7wzTtL00I8g7DXGZbwcujjrjxZCsjUL5DF6d2yeOdUbLGe8pHpI0OnRaaFWc3ZyC/apiH8MQao1WxcFMffpo35CpwJu2FkIGbrw5oTGCu66X+snH3AIaY6/RBsnjUAQeOWRC+Tmeoh4U5DEC52X+vD7s3T3ZtvO/qVkwWwpMLfujFiQuRfl44jZGt0GTFAdGb6X7r9xs01Kn3bKLIfmxM3ZNowDBk/TFKo7gFB+4kjKKlQIwgsTmjaZbeqmIPuvfBF82G37rY/MimJLcHxGiM2efT+qaT+TRZcK3MYNZDBV79sb5vHYSANO7e+e6wDMW6ByAixMB/b3EyB/+u21+rsNlYRKmo+RWmQMUKHT2X7M8Y6CvWly++HGkPUat6TXSxuuc4tK2eObDDTvPb0LRoMWBPFBWrY69GsHQdRQ0IszNdm2FOwWZwf70IQ+aA5i61i8tmBOfT8LVA6SLXmCGxneqTnHtLvFEFUIKjuX2c4kYJkSSZD+bfjXPq9enaLK3I6DDA8Mmq9F4F0BMEuHGNsrPDpGvJBUKxW6uWwG+LvWPef3yeCXPrpVK/6d6PectlwI65UPraBBJ3FyK0b3aykRPGnxp65MikbymlFzTGzdKKPZaXIFcxLqzFtZoB3Y89D1K1ZDVzI1H5Iv0cEtQxbtfwdMwsAhgLQvsznazDyOdNx9B10ybRdc/y1nlHLWROaMWk28kouH+mlRgGOCD+Whoo8NZRGze/uX5dMOde9TJgySQGV7yNj2tnzWBHv1q9FUHq3pKr8ETwkEWc0Z93lVbt5dTVYLOqth++9xtSvmsYO5yB1bH/StGJyhZDrjR3o2MZ6ZcUEZHeNu4xhBMLMVcszzVWUO5JHrrK6II5jAjKm+L3isokpfm+TxXEdM8XjwelT8Ybjw2ycnrPdZxqO1Gln8OX7V3AlbC9pahY33UxUrmgks/JNtZT1XGNwfp5iJMH+Y9c9/Z4XAsvsDxReGrLRzbgQQ7BZwnny12yGU3HfgrrOxKbw5cmnOheb52JbbH7YffJp9Gh58itTBd6ten7HAtX9l4CwGYLoyT7vvNwM3R2RKN0w/cfKFobzsnBq6zo1/dYHvp9RQPpBzknN/iKGV+G/rJh0srgbJ8doMx6ZjIU1t7xbYsUdaNXhdlIQND5VgCBp5fUIKiAl3G5611yMsLnOGyNDtOPAsRUynIEd3udUiEUvzjkyjBUv+Gtgp1UnmZhKyM6L/2CNYE5q32wh+C48C0zrWrlmBEFmTSzSCXNlviUE8NhirjYAw8DC0IjV9c1ANDWQ55HzzlC8Bb0o1Ja9jiCNjIz3iyDMpZHKfdUQcTndMUv+bSZRmA2qNDEGSo3SsB0RKhrJTqq4BBFir8l2kvOHHG4e0eI14Xp4JvAuMNy1KKSateGruP5eEYRHaPe8dblcHvv94QQU5cS5brhcPIoY/iEMq6PoWiak7pk8hsD2juuM5DtT/g5AccYjmvP/xhgn6JIkUyiIha2U6swa5ys23yOCgudq5PT55ctiMZAZMYlz4YJKNlqYtVJrVEhEycsubW4nw7JtEbLIIYLoUIPdk9rlStxFptvwXXdaierZbZTFup/51ZKEbx4qSX5M7mfcZPAEXVKjfFsIrUQmUVZr6TmlpTm55TSp+8AWSbNvlutoHDKu6eXAty9cNur8BrJBY0lC2kwqemM/RZuJnfzKVFKjfpvu+aHL7XwgieSUEKa6rMLsUAOYpPpS6m04GYNgYBTYdwBAOKgwKvEMBkAweAOkXuVO9C9QA/KONGqJrKTNfcmqijWcTWyJkr8xE8mR6va0HV7KbCWXZODjgjMB3c2CBt37tG4jDyT1sSH4Y44JGGUokvYaf3Y24N56T1ZdHMFDcnA1605QHq3WM6NkCEGkTLIhxw2xZlVu5clzjHuiWaRdc685BbaKukh1YnYxsSoWf+PZGxdzJGjxy/v0br1xrspaAKBvLJKd7lCuw0u5ToLYs8ZjmcEwH2ERf/y0AlrVyI2yjPR8nWn55dHHbr3enXjct0Xt3hs8rL8ib+YnIVi/FC4ru8Xkoow0Jww938sGXhvGDL3AUGYItkD5/u9brhG2AgCZlk2yHoYVLkxHoG5sng95rPdPgw8yV6h2BZr4rbkPQQhTthlAmqj4I5V+aN0jgqSClh6pY8iVGdDsFGCCwqsa+Bi9yvFBj0W4cf57st92Sq2EmIyMsvSkOdaHJyeF8V4iZNywOLMEWVggTza20sMNWMUgsYGY12CZQ3hpPYO8iXotmq5oTgvaAQIy3XlpDgqZNz/VD8ri073jw85NHhqFx+9x+dlw9ijX+PB2I+SrItlA+hgbJE/8depgwmJ5OgNFkjTHkmPyuEy+UfmwfYvx+/yQnffHzKzyet2kw3c/VcLmayfH60kOiU0fD3zJBrkRQVpmslYobD+z3wxUQxIIcFptSoVvMC673v1tFwwiUF98qX+Dz/yiNG11gF60iOK3HQYvgE8X47KX3sMbniox4p48FT87iZHwzd32z0KkFNBqGzOUSDuflLgeDAM1ZuE60CyIvSFtGQ2JLLEyFs+JgH+vyvKtGJvesHEbTvG3QjxLA84QmFrZgMkybjBt48XUU3F9YI9Vp3H2mE53nheDxWIBeRod7uHTdkuMH0Lwy4VA0C3w9VfYb+TxAcZwQIVyIVPwmPKrpLgfHDgiKfTyEkC9DIlx7MbQvUvwoGSuz2zFIKVYN8otdAMlPJXwvEcEDBRuPXd7U9+t2qZ9UfS/ff6+gBSq2FR/BcH0g1he1OfOUi3rv44go1JmDAuVXAOuBxIcleQWibrCSGG2NmXShJ5f4VrqwHh+zmazGUaqGdhKp49FnFU91qAcuhPKc/k0bbtakBm2nQ67DLucZeGVBIJs9kXPzzvcy4fpBY5d8yaLzo5g7Q8j+F1oL8YwbqO8AqI9CTz3pOAZ3PhgYqYJcXskLkIy7du1rQsEGL7/c7VoPf4xuvP8NaTD4xj73t1wOfn+0K5gEo98rNRt3ECiZiMjCfiYiLTRl0Xr+3J09ydeb+33v37/8pzmq5g074tGvA6JmadVcHnuQfBN+bIKQfMPIV/J5iAEmak7CS1kJWup6Y5a7QKjh0K71evnIij8OS3bpgEVVnoQudaxqorJbbbKpo3v9avnNBp7KmgbgdDCp2KER4hVqN+wFVq1sSJB1Hnohln99nFwxlZG5ra8K98Fqhqqo2Y8WMsRfLMsPj5XCN5IBHdFTXZCaN+GILzOSxNZd8zL2nrs1i7NeEia6jSUBRXsQw0HtUfHKdW8RuuZ4dRW5pFuqiirOenw+Fh31vD4DOFLilnMMWMmbW/byJeHUqc2z+yQxZI/8jLYUN0AbqoAIG4fpyG9rX0j1qxudoUDb3fK5G4IZwpCjcxCNkdCXsRhV6X6RW48GZBuThrs3mPfFi50at8w2l56PAcsaQamb9623OSEK7z5/uIc3YYWQIIIpbdqO8PLNR4ATJ9nu0ufrSnxXi7aEsHJfrsufBehZBim0xx83usXZoL39n+ElgDGYua2pHRO1zaNeEVW7HRwuFVfeYHUcB8+CIm9x7u1E0HA7/lhODZDmYW0XOFhjRQQ06HUoxfbgdMvIc7/g4ParvzXxQKCj2pNH3BzlB5yGM2LZJ43eRYshmC6w2R8zojwD6qyCphRcvjy070CEcinSL30Y+s26QHl3xfXYNas3nr1iOtye0CCRY6zobf5ZjRSedhUjXjWke5npTXxdHHgrcKLNu9VUFMEP37+wJREdO6Id/4ahdHoP3ZGIDm+uVbEzjkAQch9+ZZTizfg/fo3heB1LlA1Xn06aU7jmZV1aB0nny20Dhy76iLjhxv3oHlq1nCPaEi+Y2qMyzveLDd2aA1y9XZ0LhMIkhiCUCHTL4WKEIO35ExlehqpfOszhbdczZVs04SaxZi2EL1JHZa/ZACzUK5rtRpkH4cy0aEix8653ubrcrn8OuqvqzCNDmph5PnCG2ueGNF0txcmuh3gknYpB8MO51FhUN9eFppe9Bz51HAIFE0GkkT1dBABQNmlQQQANasd5K+pO+Wmjru0ZNYlKEYWM5IKg/rTY2Pql8N63baGZfYUEWoZJUxo7cpqL6s0chZT1PL+8PGJFxCIkWkyvXgzrtlOIs3a19xGm9mhH3VupF2W/bvPt/+qtweVQqFQub7ZVEPGNLM+Z2yOx2TWbjSsszMVQd2vUZ89Qx6qeiaUV9Qxc+PppNUshKrGuI0u6nisbLM+H3rFLe1YPUq5LSHUyINydDEzm6cfB48MzkJRYopeh/A8hWar5yrSoHpkMvTcgsnuKQ+FY5pm1d9MHq6vsqHXAWMl/Bi4dOxbRhnkSXo+BKw0ENY03zreUduZishosTno26HbAtvGtNf3s0ViRYmEhYiiRaxj2IbRaQREmJVEqN+BHyUbqCC66c+aMtM97HsQLw0e3ZTRU3szyodYKlT54CNIeXwxncweuoKUVd2lLOabKakNViBIiifl2wDbIeeGGYze7xzkWcDYbRhA3S7ePbYzwoUXe6AtFLmXYOKDlyCepkTzzUCYSKrjsIqEEngU/wbTs/cUSJK6OJdJSMu6DmmXtMw9upjfDDQ5sQiJvPZQKgB71InQaKkx5Rx0Eqw927spZDL1IDZB7VZaSow9CGqkGw7CUSff5xTBpz6g8JN7qlZ9e1ttNoMyJlkDBgk0sHkraklykHb9Sj6cUobMBqT5tEO+LVsY7eQGPIZH5orsuxbJisgFeCNTavXDmXpxhsUKJKPe7ZG+6Xx4HUHCqwYlQZSXWDpCdkxvRf6K0SRji5gIHFUaeLaMyFgX+R+lFmR5kC5PC8u3CNm+Gv6iGG6lIeQEHV8h+qucWnrORhgPWYBVN0bWrlsPbvPJRsRyK778bkSAGgONgIYWoAwJe4vXVzFpB6FxahSXlV01YKHH2oZU2m7MeGvYMV5IL+tEHiFT6XiFJ1ngsdUQzWAkIVRtCp7RyqL1OHJlUrzBvWaa1cAyGCQf4UBPkSVP3ISy6eTbJ02c1vzKLY7mmGKGN7WHhaCo5TqnlvFcEwGy5M5lVl/xQL00bJLkN4j3Ljz0u/eTEKeWy3gSWsaYTEOrTY5gFXZz89MSUondTqZw1a53//V90mvcj6ZM0JtcjUMNrSjYasjQpnZX5gdciDL6dgIRYJ+n5cWRUPVgzqHBjYbSMpSerFn30otnDKU0T8kSRdm2VW6ecvaBBDjuBgtKwhXxjaWI6IYQqB3xVzyLUaHeV9UiMsXcRUcFGTDuq3vc3IFpKu3VvLfxxuUaNLLAoeuBo4Xi80i8Qwn1zlfhQc9ytytj5KNr6SOP1k8X6o0ytMjA/Fi4h5ZYw6WbSEm1qh0HLnQe71wm/Ya4mTrpSD2K0XFF1itJemCraNB9/EMVMJDuxvM9727Te1wtCpkdqo5mfY6aSQIvDv+9gTeFmCKCDqdQkqkv+27eNiVoCepl2EycSPUS3gLvYiUTBBiGaEax9WfVu2y0bm5uHpfDu3We54vhm4BINc8LoqHYmMYFuwwIUbd5cswj7mLE7eLjRVGY4/bEEhEYYjGTo/V9srxnRgezq0p1hcEInhD6ITB9serff+w2MzGVh0ncqES2g/IHLn6px1M/BkxLdnAFapVvn8wdDuUAOv4HVkXLJ8325avKMbXdsiIOIH0qxMv8E1h1WDZtKLcrFXLYGnJdsNhVGaSEZAl7H8qVTGuLVzwLxyIHiF70CFbIWM1Vbzou2mIVAT1cKsOCBASGdpNjlr0eNFwJYYisJTQwYUbsegBRYmw4q6iM6RH3fmvZ1mhsBs0WdoPI1PxNiEkT5emXQYhQMFbwRsYupUuBhvwZkB5L+BoGHliuB47MZmOMCT4r2Ygk102/guBDDq8LSwEqQh6nbsmJ1ZsEWjFUs8YeTDdK7qhrKV6pCYmrDnA+BgiiAsPuHw+ELBxBgxqxKt2lV7V5ryqd7vTeUO7KUhPNeW4YFdyRXWUjQn+SvQp5H34P8EeVM+LCmGcqhgDsuqYDr4k0hdlOL1qvIShokFGKRhabnLkdYMDErSQEYT817PFM6QJQwhy+hGB1FvAdtCykJQvi1PkeNE+B0MzTzW1jeOe7RWyLFI9FXSxCCPLWQzAEY0X7Au9HeA1TFmntii7wDG2NNDCQnQ8BOCvpDH2wlgvrgxHsYt4UNZkGsKoZu1gRrRXUXSfE6sCybQnxJ011heAyoMEF3LNYdCg69VEQWNaU4GQKTfN6Nev115ESfOpLzY/nXct1LKIQQluGdekWQnaKCKgHLpkiciVyDWQGCn0AYI4ph/g+NMuTKcoKQemEicXwTl5cjuCCKYa7Vw8tZwMEEz3NOueWmiCECILSRYirmArGqEG5FKgVcZ1Ig6xqrgsUVqNQlz9dFHiTilAOREIjzYOKDqKkDS50apjypZFFLZfP8f/sC/E4Dl6GW0hBSNHSSKvE+ZkFomQjEewei+w35ZsR3i1pk5A7fGCb2Vab3fBQ9wAEmbErHi+eZAirWC7wB0RQxE4tqNSh1bno/LWtXaJSBbV68kofRTRnKZat8CZQ2QGDFICs1r0nrLvAX7IFOdoo4RiNlLqcBC/ZCzSXag2QOqdodPZoUmbSGu9ylUr2bolqXqPBPUi7wBlnkhAMvM72UjwUmdhRNmB+J7KjEi8tsUXsVBR/mX6jVb/iymWgqwcECclduEykNqhZf5oPQHSa0Hyp6N/AaMeltCz6S8qmYVB2hpZBncd46LiAcYGRA/6ZjHR/QWYFNxw/k9CTUlcpUEl2MWlirjRMLDhzHEbdt16jQZrDQk54d1vFt9LogrtcgkFwMRBAiIJF6tiXtbXvbaCNc28ye7oeZEMwyvoIKnUCLeM6vjRlsKWAIS1H608dnY+7/BRQIogI9Yjc0v1A2y94wg/O2bSkQSWlkhHkpiGm95Gmu5WNcsQZwysI5ma8yFMLuyk4PLSsLBrN6utKl4iIJdQtnU/mp08OREqqrrdcVVRzEXKNzizpQtCyLlIdquVXIDMN4cfViKcbgeCKIcgT6cWSB+c+VEoqUm/IZn4lLmc2wmAepl5DkClpmCMJTpR4BYNAsE9eQdCZo2ECK2Udj7WEuihoWSgUDXwpE4kgdcyaP+xNJr3Pd37tElR5wyxOZ1ccQ42nSsg3qWXLVF/zxcW9U3zhwdadLpTDHQgOOIJVnJ5MjVBiisZTe0Ch5ynjXBazny4+qqslIsj4kYFUwEiaNP1tXqgHlkACgnp5cs1Ixmr2LuM+ahr2zaA6qKLPZC7z3HOb1pVkg5nCdav3rWrqOoN1U+cGIHQKoY7ECeIDcFkLn31kKhchqNSQbyvfWNSt8HSBERAPPIBIx8tQWoryCNqoKZCKy2NFxW5i9hvqheDdkqyL2UwZDbOT4xQ2fA1B6CnqehuvKDwdYXDRH2UJokPHgiRKGf80xl1sJMlt+hTvFznzIHHCKDXQQ4B5i5yBMTW5whDkpq0lPHwiVgI0CJQl7tYqFHhT2cGi3l3d8LCm8VWwQfTySyVhJW0X4UqSzhndf1a1nXs+dITuSpSnDM7MMu7hC0WL9mgzNOqHkoNnT/O0Zq576N8kgg+o/+p+k6t/4RAT0wWvh3no08n5Ohj6yp2PIsHpSS65Kjl9ieCflCuHuGOZr7KRu7BhmCKgxMMO5DrnBhGcINAnWaP0LBjLU9muf19t5/ELT5GE+Cmj/JtylJc5QdD38Ow3aYKW5X1qsmGjLuP3/MXTWhs65jablUxMjcH93KLBjCdbuIjQg0wpICC5pCec5dY66F6jZbBqJZptJww+6BWkHE7CeY7O31JLeCSEUlsaJNd2im2RMC0cNGDiQHlChBkakx9CEC8o6QaflAdwAgTRGcWkABls1sWi6/WeZIc0iEKSTI+tY8GWmLxQDI5ccz+9zPFkWpjHdSlSKFMV2gpc9eH2OjpXJVPWIpQhWlijNabLbKOUjG3rU+vAvJlOT4SdId8ewh250KTm/EcRFCFZcW67xks5pSmM8g8gYsotz5axq9PZQvQDy7Y8Uzfyt9wCY0RCi9KWe+L95pSuS7ILIZiZVZeTyhOEMbdviSMIK0JRIFf0wbiXjTRkDAECCIcgCL8UpuHurCLqJunoRxGUIVlOgtaIP5FzLxHE6pTcNVGheKgTq3qTVr3+0PNNx1w3RAoiGjpKCwIFRg93klOG95PNqEYclVVdt9UfMIxZPBKkgVuRyqrAlNKeuFg5OHer4ktLeo6FRoVJXqqYoZX4JgSp2Q9XiHWFuHOkEkGaNR6xyHwLpcVAvkvJ/vTJLI4eCgoapnzr40CG8wP9WLMkIDtnJiw6ziOQtjGhyTSFbPgjdhLGC0CbmBSEbBZV9owrQreRg7Pf0JgAhZdXxkE3srLJuevqxySJGYofMgVLJvQrbxciCFyW1P2cIdPtAcCyN3ysZwPxjFJc/1NSl0w7MOcR5dkCra7WlMr1ZweTj4praHO9euquNrgGhNUXArDCuKBRHGGUEpQqKUaoCfzmtdrOUEcC4ZqgojIOHNa9MTR/D8IkryAY9oxRPT+JxA+l758q0U6uMETDrAvo0Xzn+TC8zWR23YyKZVzvgXEpboJCFIhEG+PWAmfroFb07yazOpfxqKuj7ykca+FH3n7K+70gyiuO43oECdV27tEHz/DbladYtw9nGmsoRAeNvtAaFc3SdRjBxEBGWA9k/Myrh961Rm6Vuz2gQexJyNRNC7sSZ3DIpJcwnWgQhKNUISiVUhrrCMnMRGm3pMhLtykSt5RJilknYBdHiND6r4d2qA8bBPMx8YIJ5tPw5zwTbRK+CfUk6QcZutHzS5GrQaxCdzk4jAYDV5duj2eZCIA3SrMI1EsRGKKigaPId9th1HK+pFxEZKhqkcxZkO+FjhFnEkgXpGJ1OUu60+KGs6VAxruwlsKwMj93To7D/WYS7WI8F2ua0q2yDLia/TYRUp+EA+57aVDA51x6s0LUwlhVA7EY0KAIrdGcEo87s5zAboPD1sIDyUvTeF+lYsBh0L0SILg9uEs3HMBWexTKRADIJIv3EpUYB9XVpbtj8XqpjnU90QmgImdvLj+kHeb6k7YVURg00roM2XvOVymLBQ1y4bXboQK01BYWk8j40LLjQFnV10JyWBo3YRqJCOJ7xA7us6RjNJKVPWEMv3n8AwgepweeIYK21J62tx6LtIrm7nwCzLrNuZvZINbbkb3W28DpSoNoB0eQCj91PWj5Ez2brFxhnOW4Lx/FSqDeeQXhmbyG9xHpSBq7UOdsb5oAAA+sSURBVKvI6TZ/nYCgFhSL6eN26uRHEDzRChuZ0kmN6nyrWSCTz2Xb0UO1g0z/gMh7qeYP59cFEs/5YbrBfZRuaVkG0kLVynppVN/ueY0dXkuy/FOUeMtcFwnhFOMs4Jk84mGN3eAUesJjIh05W4NY6BGg2HKtuVX9dWBtJxQ95mSHaviASVyBh0zL3vTb2AW3BzNmx773bfqZmRFXmS0ZihDUtzyOMolByGKBq5Prw8efRMyJpzxZ7UlZ5q6CQwvi1los4koNf9Vs1ht57l6PN64Xt5FpjU1xnVAOhRyYdUfaG/EZKcYDm1tfXTkcQQ36jkm2pecalThR4fcQCuB1Y6NSKWRlyf/WmwV1aJkX7QhDVCNTJlcRYmIMyt081gvschaoNoX64x13OMqjwCWqybqHYOi5clHFROk6bqhATl57GvTZDWK3KbXQ4U4nRUNKeDAFtnu/vapR44C0wvRiyv3+eLXyLBu7JSvm/NW0ILQTvjnGl2/WIjEj1MzjiFZXqOQW+uHPGhxxQQTlJNPp1FsXbVOWf1BJhDmmIzELPs6IIxcx7q34Oqgsg+9Y0O04CiYLTYoqFazY64Cv4NXOZWJ7Z2+b50lZNc2i5rdBonzbM5gNAN6VLbEDSFx4jVlr5l3EqVOYsXo0A44GR130N34cwPjmxW1IKDF0KvN1+JRcyC8oqy1Ww7K0zJkeJ1KNDuhclozg8Xk71EnD3KNjRd5l6J/QgswrJdZz6g4z9ZO7kyZuB7UkSUoV6kZNtT4y1w03oj2EEkKh50ilXX/crEvqw2VmcZ6VGMT43dsQTDO5pIqY0RZXqn8yfOrFM/gWy3JQe66WYRgTGv3lrYPu+reAwaiOZvXBYLGa3bvhxBv0y4YyyQblPHwz11FfODLLSybYE7SWtyIImXR5nTfkx6wPocPFbCUYkYon8I1ef+znnBhgwT+orsd/3ofUQXZ4fApDpF0a8dMj9S0zM+T+B1N0Av6Fn4IgtiYlXEdlF79UKiipXDctJUACg0qVLWTbN5/Hl1hMyDPItwDQqyNVPyU+gJcMEmWLfXuvvoMVUllnY5qqfcgOwJWDx7JUhJOXRBY3LV7W8sp3O7fzqGWKv0BQNVLirlq8ESdwBs/A38a/UJkNUtKJxfSbQf3mjzs3b0MqKltI3rJ10yhfSIF0RHnHUOq2rUyQrQ4fpM1dJJEjLc6aq3WMXzI5tPFlKyGh1Bt2vohpW9Vl/WacyGDxMxRyyQSfnbtwvcbDS+eMAxh0LkPMAlmclMsvnF7y20ThzTNROqQiGxrZOLzi1K6uv21Gjd5HGL3GiOnYVdPkudBMaS33+OdPmhtZcanXPOgayr+wlZHpXfRiOLm5niVYiuBCJaQbKwq/aDCVBrL2KTOF7HytVva9z/Pr5owBYvTAOrETyZrm25FFjL/ZvUHnjD35qSpv2AXJeXI9CY7tbilwfIen36BNjwaVssOkNSeGHkocpuZ4rtI1MkOZwNO0suDXg1aYGukLswc6JjMK3kSWZXAlSGKPa9BwMxqkWurl24dVvd28ygqn4q2Bvj9IR4heJ3SyWsShNAXGpPD7PId9t/NtfbeO2/xmmKnEDa0d3RLiLAl7K4tYBSwVblVAigp6OFGhJUMhaLivEHNR1asxi6ry+GLAzhL9oaRxghFoiGSWWhGNHnNnIT8uoPDtEanyE/4Omd9GxCdlD+qJfiiCJ2fiG5/FNvbAugqnLOzAkoqqKI3bfhZm0+IFSk+E5yZDkhA3bYFtlURxW0+mO9MSE4grfDadZ3mRdhU/pKDqtLBVejtvhroqYUCULA3McAhqQbZftR0KWMycwNOAhvFbusofjOCpJZK9a2O/741rMpE2ic2Y/oqvX3AKeN+B3Jb4ASLssV9hFI0FDSii4Gfh7IT4LJfL+f+BANNKJADAbkic1G3voS2MEfS+MFjzVxx8IpWAHuOXiKDlJYkSlYidSolPRB3xhALt1yB4AkpO09d5+qMumiqAworfKeXfRYhEl+wNekoZ+dU3VRM+0kk4t8FiRIagzpPLSH16ARFfQ8bNSMs0QAuhtQIJggJYF0q6pu632JVkl/BLQLBZxbRtUqgM6t3V43Lj5zEVE7is0lK2iNAJbGZMX+I3Lcvyfg0NEtJeR7UvaN49uOltPH+8Hvub/w2WM36MNpXinxyC6itz2WxOuJMCEWyWdd1EXk4s5AfYYRl0Bs26b8z7TA/iZQOiFB1zlNhqY4cBWllsBnkE0DHmCNnYmlUulT7hwCbCFHxbkMCVQIM8X4E/sax6oe4rX5L/C53LhMum6RmqaJhXPTCeC70jX14KGSvolCESGjVy1cgLNme47oVYnYhgrbyZ8doUWJsUM6q17BfCV2N2qsvCCyxF51oUuXUE/yeZHqQcXXJydmDBktbDw2w2m8/nDewujAlyZJj0SZVLZZBoqvLKGHVE5cBrsviVXh9iU366SMZE4d+DXh4rthgB2f7HAfuNBwA17Tzd8WXeMLUnWJBGWuPAllI2E2QNkcp/YedVzBHsQuYbxI5I5f8BH9J4K4syIgi6Rs+kOiw6snSkQ4pYjDR5IkHB5TGlwMfWBQmO6cBMTiVEIkIp9VlXiH+zJb9wIMKa6oMHIQyw14eySQRtkthy5bt3frrofPF4t3Zd/27S7URbvZ90lAHAY7ck29jhc9F1NEeJcuMzwtYZE/2Kq1OECyGnlSOIKFsNG3QdjXx1ZAdXJuBXZR3kt5ZdO42IH5DLD2w1qUo848MIpZLWbfEh9nVFi/ej5hj8Ne9WrPf1MbEKV4WCJUzGUO/rjkoaqkJcihSmu+zYnH/LM0NTHB5SYfaJPR5GPnpF6mtK11l2kWfwi2uZ0ScgM2uki/oEXOz1NeTDMZ1P1NWomACkL1Ed3N9JDeoiKVQisQvKc35pT3TFXNFzoLGTT2IISj4IH6MNKlajKK67MnAKjq+OhlLZXxWCHwm3GNk6AwSfMOWLZDffuWTllPWvCh7V9CGN3/KZpNdCBeOZCZauYx+Wye60gND3p4lqh2o/kN+DYPTkEIJ3vGgAvQ+M/28VE4KTRnZSgPyYpYsk5DN5wN1kEKKoAzFCAw/gVGypfhpmkCO84KE6p6yej21RSGXBdb41KIuLse/7f/7peesL7nqBI+f2Fnp4L6Fa8YLsE12++jcjmF6K9+0gMN8cVQeIn0A2c7XyuAaaG0R0KxPfNiCfkwGgkgGz3Z5vYh4bW32Y4UZWpmimQ7D8hgrKMsfXRP5KPL06AK2myivGmW0OX0XgdZkz2b4jWrAMOyUfFp9swMybg/vy8+2DemCGEDx5BcEHkwtc+CAye6D7Na8nt6tuf/T146reLGSbX7gIAauaUswpJndgzsMKtr7ZjG6xMEHL+o4PNHhjUrOHJmEKS+U4LnNbL0tqBp3PBLdDZQ0lPFV/w+Z68HmlBWnZuoE+Vp6BLpzlVFadpFIqBRFzI3cjmChJPsT7sKYjfVjTsukoH6dit0RQbIa+kvQiVXuMP8B34bvdVXcxqBRUGhZ5+WN1g7QFarLDVTbDXz3D/Q34x9lyaGGsbMguwpRf3o+ZbQxKPLkcnFF6fiaT9jcGxH217H3jsbUQvsqmi4U65Mn1Ro837CagDoJZLHfcP8b1dzxdFaRVK9r2U3EM1Lefjg/qXPZKB/vYh7lDuqclq0iZSaqF7NRQ9J1Uquaa0wYg+BkVDoN+Qgv5BgO5vERQszYSQZXRBVXqkrKgVzg2g7BAIeaF3moyeH1TB1idlqmEqxzZPd7L8lWJIO9MznT2u87Op9rj3XpTP+pD2COGzfF2qisSa14kff+MeiAxkiOo38HaBF8eGhWSGPh3sNq4XqHalHKHGFNfbB5F5/nn1ISPz2IXKVGprgVzMYWmzAV2LP0QroEl1HIRY0UK4z7G9/SPffHvJyIICbriY2K5ZUUtXPHyodnKalml2GeRtwjkTI2xuhy4bZXLljd7rEwlgkc8KT5THxlHfG2Kr3+bkCdTWZZBCPAXJqq5M4XGhfIFq7eHd7My+YpVCIpvXNDi4nWx+asRTAWtoalRvH9YNLEcurmotz5+3fhFGxtPQpWF6GYFDk2NLA29irDwdHHgUuCgb/UDBJkZe3PLhLfQ1lWDLNOrLzHB4KKBOUdWtrLozpcj9M5cQMsoAehVs91uM0mWafvoumScRPIVoUHo356xg/q/F0GGhmqBCD0fy+vxeOwWc6bp8C6jPBuq2JuL7lRG4yq7KlJgdCQzDAwwu7Gal5FAJyrlWqiXxrSZvVbOfl1++JthuZrDxx1yfC70cE+bpHA9m2w8dhPVarE89r0ib4Wk+vEyXYhfwJikE57qdyKImdshNTqhaywDVyrbF66PZJsbMSkZCvQatgEKLsls+ffoRdnf1YRbz5VU63g8Dq6y3qzzkQQ9WVaiKni0QlV4jFpvQvCvyOL9X5MRxnByy6Kj4AnxL17bFAJVYA9cslsf2tsXotsJOPKUrd+2unFK55HMKBVFUUxCDfY81ZYsPvBrRG/6opE8ujLJY3B9H3yivWlAcjuPhkC9EeqEuu+C0b/3hcDEon+UCPK2NJBNu++pYptv+1bYwV+4PBYv8XpUSuiHHzSDlqubHoW3w2PHT6G1qO/Zu3/wO5EdzjTrDrkveDR3P9WuBfer7GLBWzXIwPOK+QsbPybCDTscF/g//k8YcoNtYovoXK4EI8c7RufyefFXKS9GLr9r1Nh/xSL7r1rko8yH/Ltcdtl/clT5uxQp6EENwRPWyf97PQtqLohutlvzSY+NuRiTCaY0zOez+YyNj3xrdsNGq9UC3/z32ffZCsdT64GPpzofLT7q13x0+ai3cTTFQfUmH+0FH2KzKTYHFRwFkb0CTc6FfY6botz2nSDI5+IWpFRlhXtcqrbSmS5XRzpytDTY5cnSfpcns5s6DhJLT6UqIXiT2JRTiU0pCJ9FsavudiE74SN6Q6guUuLfFYJ8N3lnU2nnD6IXul79OsjwXksMwTF3XrwnBE9+H4Jvm6rTEJVK1KhOG2WuB8guMId+v3i3LP4VX5v+jR+2Pniq56Fqaa/LlGnz9i1THf/OL56/v6k0LTu0Y6oozX9501S7azvfZtWd7F5xW5UXJ+9uKvi8Wi+Sd8Ys6EbnTVP9Ort4iwuJx3pnU2nhVABmj5jT7Jum+oWehf8QBCHS1SujyQhpw6Vl4W1T/YMg29TSL7ONX67VXG854DrmPwi+dap0+plZLgWs4P0xBJO7BOx/LH70X2Hv72Aqjcdujz8Q/NT8G6f6ayrGefTkX6nN/J6pzt4+1f9xjfqvT/V/2i7+KVP9g+DPQlD6gYKqML6dNJc4OhU9+qDH+ptNdfz/AQb1R4hBg82KAAAAAElFTkSuQmCC" group-title="PORTUGAL ",DISNEY CHANNEL PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/883
+#EXTINF:-1 tvg-id="0cc894794fcb1fce239d200dbbc534c0" tvg-name="DISNEY JUNIOR 4K" tvg-logo="http://185.53.90.49:41001/logos/disneyjr.png" group-title="INFANTIS",DISNEY JUNIOR 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/353
+#EXTINF:-1 tvg-id="0cc894794fcb1fce239d200dbbc534c0" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://185.53.90.49:41001/logos/disneyjr.png" group-title="INFANTIS",DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/354
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR LT" tvg-logo="https://w7.pngwing.com/pngs/673/844/png-transparent-disney-junior-disney-channel-the-walt-disney-company-television-show-family-channel-nick-jr-television-text-logo.png" group-title="LATINOS",DISNEY JUNIOR LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/858
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR PT" tvg-logo="https://cdn9.pngable.com/4/12/13/Km39uzRrGf/disney-junior-logo.jpg" group-title="PORTUGAL ",DISNEY JUNIOR PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/884
+#EXTINF:-1 tvg-id="bf534ee0e7e1df92b1d82cf2238cfbcd" tvg-name="DISNEY XD 4K" tvg-logo="http://185.53.90.49:41001/logos/disney_xd.png" group-title="INFANTIS",DISNEY XD 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/355
+#EXTINF:-1 tvg-id="bf534ee0e7e1df92b1d82cf2238cfbcd" tvg-name="DISNEY XD HD" tvg-logo="http://185.53.90.49:41001/logos/disney_xd.png" group-title="INFANTIS",DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/356
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD LT" tvg-logo="https://w7.pngwing.com/pngs/890/131/png-transparent-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle.png" group-title="LATINOS",DISNEY XD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/857
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD " tvg-logo="http://www.dogtv.com/wp-content/uploads/2021/09/dogtv_logo.png" group-title="ENTRETENIMENTO",DOG TV HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/879
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS COMEDIA",DOIS HOMENS E MEIO 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/683
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",DRAGON BALL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/684
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",DRAGON BALL SUPER 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/686
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",DRAGON BALL Z
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/687
+#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 2 HD" tvg-logo="http://toptv2.com:25461/logos/E!2.png" group-title="ENTRETENIMENTO",E! 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/101
+#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 4K" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="ENTRETENIMENTO",E! 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/102
+#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! HD" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="ENTRETENIMENTO",E! HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/103
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 01 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 01 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/945
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 02 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 02 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/946
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 03 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 03 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/947
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 04 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 04 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/948
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 05 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 05 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/949
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 06 HD " tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 06 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/950
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 07 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 07 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/951
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 08 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 08 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/952
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 09 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 09 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/953
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 10 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 10 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/954
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 11 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 11 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/955
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 12 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 12 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/956
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 13 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 13 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/957
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 14 HD " tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 14 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/958
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 15 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 15 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/959
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 16 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 16 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/960
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 17 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 17 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/961
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 18 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 18 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/962
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 19 HD" tvg-logo="http://xplussport.com:8080/images/22601574b0ee79c519f0d89306ad18c3.png" group-title="ELEVEN BRASIL",ELEVEN 19 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/963
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 4K " tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="PORTUGAL ",ELEVEN SPORTS 1 4K 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/124
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 4K " tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="PORTUGAL ",ELEVEN SPORTS 2 4K 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/125
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 4K" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="PORTUGAL ",ELEVEN SPORTS 3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/801
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 4K" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="PORTUGAL ",ELEVEN SPORTS 4 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/802
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 4K" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="PORTUGAL ",ELEVEN SPORTS 5 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/803
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6 4K " tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="PORTUGAL ",ELEVEN SPORTS 6 4K 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/804
+#EXTINF:-1 tvg-id="" tvg-name="EM BUSCA DO VALE ENCANTADO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",EM BUSCA DO VALE ENCANTADO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/688
+#EXTINF:-1 tvg-id="4ceb89cf78c79f670f6dc02b1765f423" tvg-name="ESPN  4K" tvg-logo="http://toptv2.com:25461/logos/ESPN_Brasil_FHD.png" group-title="ESPORTES",ESPN  4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/130
+#EXTINF:-1 tvg-id="4ceb89cf78c79f670f6dc02b1765f423" tvg-name="ESPN  HD" tvg-logo="http://toptv2.com:25461/logos/ESPN_Brasil_FHD.png" group-title="ESPORTES",ESPN  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/131
+#EXTINF:-1 tvg-id="2c729e9f2c9e6a887aa5cfc9f01172ca" tvg-name="ESPN 2 4K" tvg-logo="http://xplussport.com:8080/images/fd524d7d4c582ce92eafc4de281e485f.png" group-title="ESPORTES",ESPN 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/129
+#EXTINF:-1 tvg-id="0288e7a4ca87d39958fb3f8931776852" tvg-name="ESPN 2 HD" tvg-logo="http://xplussport.com:8080/images/fd524d7d4c582ce92eafc4de281e485f.png" group-title="ESPORTES",ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/135
+#EXTINF:-1 tvg-id="aeab51e588f8e18a27e43aa5bb3d0827" tvg-name="ESPN 3 4K" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="ESPORTES",ESPN 3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/127
+#EXTINF:-1 tvg-id="aeab51e588f8e18a27e43aa5bb3d0827" tvg-name="ESPN 3 HD " tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="ESPORTES",ESPN 3 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/126
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HDR+" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="CANAIS HDR+",ESPN 3 HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/995
+#EXTINF:-1 tvg-id="a3694659decfe49635161b993bc7c3a6" tvg-name="ESPN 4 4K" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/142
+#EXTINF:-1 tvg-id="a3694659decfe49635161b993bc7c3a6" tvg-name="ESPN 4 HD" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/143
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HDR" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 HDR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/899
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HDR+" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="CANAIS HDR+",ESPN 4 HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/1007
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA 4K" tvg-logo="http://toptv2.com:25461/logos/espn_extra_uhd.png" group-title="ESPORTES",ESPN EXTRA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/133
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://toptv2.com:25461/logos/espn_extra_uhd.png" group-title="ESPORTES",ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/134
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HDR+ " tvg-logo="http://toptv2.com:25461/logos/espn_extra_uhd.png" group-title="CANAIS HDR+",ESPN EXTRA HDR+ 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/1005
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 01 HD" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="ESPORTES ONLINE",ESTADIO TNT SPORT 01 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/216
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 02 HD" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="ESPORTES ONLINE",ESTADIO TNT SPORT 02 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/217
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 03 HD" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="ESPORTES ONLINE",ESTADIO TNT SPORT 03 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/218
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 04 HD" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="ESPORTES ONLINE",ESTADIO TNT SPORT 04 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/219
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 05 HD" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="ESPORTES ONLINE",ESTADIO TNT SPORT 05 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/220
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS MELHORES MOMENTOS 4K" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="ESPORTES ONLINE",ESTADIO TNT SPORTS MELHORES MOMENTOS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/221
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS PROGRAMAÇÂO" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="ESPORTES ONLINE",ESTADIO TNT SPORTS PROGRAMAÇÂO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/222
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" group-title="PORTUGAL ",EUROSPORT 1 HD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/137
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" group-title="PORTUGAL ",EUROSPORT 2 HD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/138
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="ENTRETENIMENTO",FASHION TV HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/878
+#EXTINF:-1 tvg-id="dd4766390e0409634178b12f087cb567" tvg-name="FILM & ARTS HD" tvg-logo="data:image/png;base64,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" group-title="FILMES & SERIES",FILM & ARTS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/242
+#EXTINF:-1 tvg-id="ebf476b8a69a7e335883fa75e01720d0" tvg-name="FISH TV 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="DOCUMENTARIOS",FISH TV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/79
+#EXTINF:-1 tvg-id="ebf476b8a69a7e335883fa75e01720d0" tvg-name="FISH TV HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="DOCUMENTARIOS",FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/80
+#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK 4K" tvg-logo="http://toptv2.com:25461/logos/Food_Network_UHD.png" group-title="ENTRETENIMENTO",FOOD NETWORK 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/104
+#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK HD" tvg-logo="http://toptv2.com:25461/logos/Food_Network_UHD.png" group-title="ENTRETENIMENTO",FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/105
+#EXTINF:-1 tvg-id="" tvg-name="FORMIGA ATOMICA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",FORMIGA ATOMICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/691
+#EXTINF:-1 tvg-id="f59c512e2fe682c1b91167de085bc7aa" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://toptv2.com:25461/logos/Fox-Sports-2_U4K.png" group-title="ESPORTES",FOX SPORTS 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/139
+#EXTINF:-1 tvg-id="f59c512e2fe682c1b91167de085bc7aa" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://toptv2.com:25461/logos/Fox-Sports-2_U4K.png" group-title="ESPORTES",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/140
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HDR+ " tvg-logo="http://toptv2.com:25461/logos/Fox-Sports-2_U4K.png" group-title="CANAIS HDR+",FOX SPORTS 2 HDR+ 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/1008
+#EXTINF:-1 tvg-id="" tvg-name="FREAKAZOID" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",FREAKAZOID
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/692
+#EXTINF:-1 tvg-id="" tvg-name="FURACÃO LIVE 4K " tvg-logo="https://pbs.twimg.com/profile_images/1320433252608466947/ekNFdF28.jpg" group-title="ESPORTES ONLINE",FURACÃO LIVE 4K 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/818
+#EXTINF:-1 tvg-id="899076abbcea9639918fb27bbcc85dd8" tvg-name="FUTURA 4K" tvg-logo="http://toptv2.com:25461/logos/Futura.png" group-title="FILMES & SERIES",FUTURA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/243
+#EXTINF:-1 tvg-id="816f1c140d095a098846951e0607aed0" tvg-name="FX HD" tvg-logo="http://toptv2.com:25461/logos/FX_UHD.png" group-title="FILMES & SERIES",FX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/244
+#EXTINF:-1 tvg-id="0a54d08d692b8e9a803f0037b8dcb060" tvg-name="GLOBO BAHIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO BAHIA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/488
+#EXTINF:-1 tvg-id="7e70ef2bdcd3c0aa660db718a979effc" tvg-name="GLOBO BRASILIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO BRASILIA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/490
+#EXTINF:-1 tvg-id="7e70ef2bdcd3c0aa660db718a979effc" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/489
+#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS 4K " tvg-logo="http://toptv2.com:25461/logos/EPTV_CAMPINAS_GLOBO.png" group-title="TV ABERTA",GLOBO EPTV CAMPINAS 4K 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/780
+#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://toptv2.com:25461/logos/EPTV_CAMPINAS_GLOBO.png" group-title="TV ABERTA",GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/491
+#EXTINF:-1 tvg-id="8fce20fba553e998b00add259a9d5ca7" tvg-name="GLOBO INTEGRAÇÃO JUIZ DE FORA " tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-integrac-o-uberaba_m.png" group-title="TV ABERTA",GLOBO INTEGRAÇÃO JUIZ DE FORA 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/494
+#EXTINF:-1 tvg-id="a26b437a5f1cbcf0ba862fe31e69993b" tvg-name="GLOBO INTER TV CABUGI 4K" tvg-logo="http://toptv2.com:25461/logos/intertv_4k.png" group-title="TV ABERTA",GLOBO INTER TV CABUGI 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/514
+#EXTINF:-1 tvg-id="a26b437a5f1cbcf0ba862fe31e69993b" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://toptv2.com:25461/logos/INTER_TV_CABUGI_GLOBO.png" group-title="TV ABERTA",GLOBO INTER TV CABUGI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/495
+#EXTINF:-1 tvg-id="e26375ad11fbc0740b725915057934f3" tvg-name="GLOBO MINAS 4K" tvg-logo="http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png" group-title="TV ABERTA",GLOBO MINAS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/497
+#EXTINF:-1 tvg-id="e26375ad11fbc0740b725915057934f3" tvg-name="GLOBO MINAS HD" tvg-logo="http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png" group-title="TV ABERTA",GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/772
+#EXTINF:-1 tvg-id="e26375ad11fbc0740b725915057934f3" tvg-name="GLOBO MINAS PLAYBACK" tvg-logo="http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png" group-title="PLAYBACK",GLOBO MINAS PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/925
+#EXTINF:-1 tvg-id="7febbe84b0edb3806d2d52afeb997fcd" tvg-name="GLOBO NEWS 4K" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/498
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS DF" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS DF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/445
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS MG HD" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS MG HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/446
+#EXTINF:-1 tvg-id="7febbe84b0edb3806d2d52afeb997fcd" tvg-name="GLOBO NEWS PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="PLAYBACK",GLOBO NEWS PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/935
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS PT" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="PORTUGAL ",GLOBO NEWS PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/890
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS SP 4K" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS SP 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/447
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS SP UHD" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS SP UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/448
+#EXTINF:-1 tvg-id="4c02e1f2b6a94acdc16c02bfa00e3176" tvg-name="GLOBO NORDESTE 4k" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO NORDESTE 4k
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/499
+#EXTINF:-1 tvg-id="4c02e1f2b6a94acdc16c02bfa00e3176" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/500
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC BLUMENAU 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="TV ABERTA",GLOBO NSC BLUMENAU 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/515
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PREMIUM PT" tvg-logo="https://s2.loli.net/2022/02/15/CKj4ZFhTafENboX.png" group-title="PORTUGAL ",GLOBO PREMIUM PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/889
+#EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="GLOBO RBS PORTO ALEGRE 4k" tvg-logo="http://toptv2.com:25461/logos/RBS_TV.png" group-title="TV ABERTA",GLOBO RBS PORTO ALEGRE 4k
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/501
+#EXTINF:-1 tvg-id="f8f1449dea8bd39fc4f8c88fbcc3c426" tvg-name="GLOBO REDE AMAZONICA MANAUS 4K" tvg-logo="http://toptv2.com:25461/logos/RedeAmazonica.png" group-title="TV ABERTA",GLOBO REDE AMAZONICA MANAUS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/530
+#EXTINF:-1 tvg-id="0f2b867370232e42a6bdf4c3eb557abe" tvg-name="GLOBO RJ 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO RJ 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/504
+#EXTINF:-1 tvg-id="0f2b867370232e42a6bdf4c3eb557abe" tvg-name="GLOBO RJ HD" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/503
+#EXTINF:-1 tvg-id="17d59f8dd4e7a20626479151e084726c" tvg-name="GLOBO RPC CURITIBA 4K" tvg-logo="http://toptv2.com:25461/logos/RPC_CURITIBA_4K_GLOBO.png" group-title="TV ABERTA",GLOBO RPC CURITIBA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/505
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUAÇU 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV ABERTA",GLOBO RPC FOZ DO IGUAÇU 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/506
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC MARINGA 4K" tvg-logo="http://toptv2.com:25461/logos/RPC_PARANA_4K_GLOBO.png" group-title="TV ABERTA",GLOBO RPC MARINGA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/507
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="http://toptv2.com:25461/logos/RPC_PARANA_4K_GLOBO.png" group-title="TV ABERTA",GLOBO RPC MARINGA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/817
+#EXTINF:-1 tvg-id="30fb2667ef413d9a555281386fb5cbcb" tvg-name="GLOBO SP 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO SP 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/511
+#EXTINF:-1 tvg-id="30fb2667ef413d9a555281386fb5cbcb" tvg-name="GLOBO SP HD" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/510
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIAS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a0/Logo_TV_Anhanguera_2019.png" group-title="TV ABERTA",GLOBO TV ANHANGUERA GOIAS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/849
+#EXTINF:-1 tvg-id="63b218bc09317a7488464275730190da" tvg-name="GLOBO TV CENTRO AMERICA CUIABA 4K" tvg-logo="http://toptv2.com:25461/logos/TV_Centro_America.png" group-title="TV ABERTA",GLOBO TV CENTRO AMERICA CUIABA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/512
+#EXTINF:-1 tvg-id="a59483f89eb41e07791c2730e68fc82f" tvg-name="GLOBO TV LIBERAL BELEM 4K" tvg-logo="" group-title="TV ABERTA",GLOBO TV LIBERAL BELEM 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/554
+#EXTINF:-1 tvg-id="a59483f89eb41e07791c2730e68fc82f" tvg-name="GLOBO TV LIBERAL BELEM HD" tvg-logo="" group-title="TV ABERTA",GLOBO TV LIBERAL BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/773
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="http://xplussport.com:8080/images/ebb669d13b4e05676c3fda8143ebf945.png" group-title="TV ABERTA",GLOBO TV TEM BAURU HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/968
+#EXTINF:-1 tvg-id="95c74b5af2e547589ddddf8829313a0b" tvg-name="GLOBOSAT + UHD" tvg-logo="http://toptv2.com:25461/logos/globosat+_4K.png" group-title="ENTRETENIMENTO",GLOBOSAT + UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/106
+#EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB 4K" tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="INFANTIS",GLOOB 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/357
+#EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="INFANTIS",GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/358
+#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO 4K" tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="INFANTIS",GLOOBINHO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/359
+#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO HD" tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="INFANTIS",GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/360
+#EXTINF:-1 tvg-id="e68d3d0c3ca1a41afd483ca6742a26a0" tvg-name="GNT 4K" tvg-logo="http://185.53.90.49:41001/logos/gnt.png" group-title="ENTRETENIMENTO",GNT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/107
+#EXTINF:-1 tvg-id="e68d3d0c3ca1a41afd483ca6742a26a0" tvg-name="GNT HD" tvg-logo="http://185.53.90.49:41001/logos/gnt.png" group-title="ENTRETENIMENTO",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/108
+#EXTINF:-1 tvg-id="9c89384f4bfa30f167e77d23d8c331c4" tvg-name="H2  PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/h2-hd.png" group-title="PLAYBACK",H2  PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/931
+#EXTINF:-1 tvg-id="9c89384f4bfa30f167e77d23d8c331c4" tvg-name="H2 4K" tvg-logo="http://toptv2.com:25461/logos/h2-hd.png" group-title="DOCUMENTARIOS",H2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/815
+#EXTINF:-1 tvg-id="9c89384f4bfa30f167e77d23d8c331c4" tvg-name="H2 HD" tvg-logo="http://toptv2.com:25461/logos/h2-hd.png" group-title="DOCUMENTARIOS",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/81
+#EXTINF:-1 tvg-id="" tvg-name="H2 LT" tvg-logo="https://www.pngfind.com/pngs/m/197-1979074_history-channel-video-history-channel-logo-png-transparent.png" group-title="LATINOS",H2 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/872
+#EXTINF:-1 tvg-id="bd04657e9d4deb7babb7cb61efde338e" tvg-name="HBO + 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES & SERIES",HBO + 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/246
+#EXTINF:-1 tvg-id="bd04657e9d4deb7babb7cb61efde338e" tvg-name="HBO + DUAL " tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="CANAIS DUAL AUDIO ",HBO + DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/795
+#EXTINF:-1 tvg-id="bd04657e9d4deb7babb7cb61efde338e" tvg-name="HBO + HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES & SERIES",HBO + HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/245
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 4K" tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="FILMES & SERIES",HBO 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/247
+#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 DUAL " tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="CANAIS DUAL AUDIO ",HBO 2 DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/794
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="FILMES & SERIES",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/248
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO 4K" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="FILMES & SERIES",HBO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/251
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO DUAL " tvg-logo="http://185.53.90.49:41001/logos/hbo.png" group-title="CANAIS DUAL AUDIO ",HBO DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/793
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="FILMES & SERIES",HBO FAMILY 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/252
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY DUAL " tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="CANAIS DUAL AUDIO ",HBO FAMILY DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/796
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="FILMES & SERIES",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/253
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO HD" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="FILMES & SERIES",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/255
+#EXTINF:-1 tvg-id="" tvg-name="HBO HDR+" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="CANAIS HDR+",HBO HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/1000
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE",HBO MAX 1 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/832
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE",HBO MAX 2 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/833
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 HD" tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE",HBO MAX 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/834
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE",HBO MAX 4 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/835
+#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI 4K" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES",HBO MUNDI 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/256
+#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI HD" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES",HBO MUNDI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/257
+#EXTINF:-1 tvg-id="bd04657e9d4deb7babb7cb61efde338e" tvg-name="HBO PLUS 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES & SERIES",HBO PLUS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/258
+#EXTINF:-1 tvg-id="bd04657e9d4deb7babb7cb61efde338e" tvg-name="HBO PLUS E HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES & SERIES",HBO PLUS E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/259
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP 4K" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES",HBO POP 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/260
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP DUAL " tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="CANAIS DUAL AUDIO ",HBO POP DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/798
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP HD" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES",HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/261
+#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES",HBO SIGNATURE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/264
+#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE DUAL " tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="CANAIS DUAL AUDIO ",HBO SIGNATURE DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/797
+#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE HD" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/262
+#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME 4K" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="FILMES & SERIES",HBO XTREME 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/266
+#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME HD" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="FILMES & SERIES",HBO XTREME HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/267
+#EXTINF:-1 tvg-id="bd04657e9d4deb7babb7cb61efde338e" tvg-name="HBO+ PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="PLAYBACK",HBO+ PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/920
+#EXTINF:-1 tvg-id="" tvg-name="HE-MAN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",HE-MAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/694
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV 4K" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="DOCUMENTARIOS",HGTV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/816
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="DOCUMENTARIOS",HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/552
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HDR+ " tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="CANAIS HDR+",HGTV HDR+ 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/1006
+#EXTINF:-1 tvg-id="3bf7039c747b9600dcb773ad01fc0637" tvg-name="HGTV PLAYBACK" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="PLAYBACK",HGTV PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/940
+#EXTINF:-1 tvg-id="1c7b354134490b8008a7aaacf28c82c9" tvg-name="HISTORY CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/83
+#EXTINF:-1 tvg-id="1c7b354134490b8008a7aaacf28c82c9" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/82
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL PT" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="PORTUGAL ",HISTORY CHANNEL PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/895
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",HOMEM ARANHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/695
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 2" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",HOMEM ARANHA 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/696
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",HOMEM DE FERRO 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/697
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO 2" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",HOMEM DE FERRO 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/698
+#EXTINF:-1 tvg-id="5e186dac8a8f97419c4ad656efd92dd7" tvg-name="I-SAT HD" tvg-logo="http://toptv2.com:25461/logos/I.Sat_logo.png" group-title="FILMES & SERIES",I-SAT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/268
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGAÇAO CRIMINAL " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS FILMES ",INVESTIGAÇAO CRIMINAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/668
+#EXTINF:-1 tvg-id="" tvg-name="JIRAYA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",JIRAYA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/699
+#EXTINF:-1 tvg-id="" tvg-name="JOHNNY BRAVO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",JOHNNY BRAVO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/700
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/847
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/846
+#EXTINF:-1 tvg-id="e869c199882e64c2fcb37d7a45539798" tvg-name="LIFETIME HD" tvg-logo="http://toptv2.com:25461/logos/Lifetime_HD.png" group-title="FILMES & SERIES",LIFETIME HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/269
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTIÇA " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",LIGA DA JUSTIÇA 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/701
+#EXTINF:-1 tvg-id="" tvg-name="MASHA E O URSO " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",MASHA E O URSO 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/702
+#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX 4K" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="FILMES & SERIES",MEGAPIX 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/270
+#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX HD" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="FILMES & SERIES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/271
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HDR+" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="CANAIS HDR+",MEGAPIX HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/998
+#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX PLAYBACK" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="PLAYBACK",MEGAPIX PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/938
+#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM 4K" tvg-logo="http://xplussport.com:8080/images/0eee5d09aca1ee708d892815108cd424.png" group-title="DOCUMENTARIOS",MODO VIAGEM 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/85
+#EXTINF:-1 tvg-id="" tvg-name="MORANGUINHO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",MORANGUINHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/703
+#EXTINF:-1 tvg-id="" tvg-name="MOTOR VISION HD" tvg-logo="" group-title="PORTUGAL ",MOTOR VISION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/806
+#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV 4K" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="MUSICA",MTV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/112
+#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV HD" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="MUSICA",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/422
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE 4K" tvg-logo="http://xplussport.com:8080/images/827d9f9eb3b8d9d013252aed02714d93.png" group-title="MUSICA",MTV LIVE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/831
+#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV PLAYBACK" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="PLAYBACK",MTV PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/919
+#EXTINF:-1 tvg-id="84102f4749f1fe3f8114395f2fe1bce4" tvg-name="MULTISHOW HD" tvg-logo="http://xplussport.com:8080/images/ae4a3a3f0fbe5ab8c657a87e77d45038.png" group-title="MUSICA",MULTISHOW HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/423
+#EXTINF:-1 tvg-id="84102f4749f1fe3f8114395f2fe1bce4" tvg-name="MULTISHOW PLAYBACK" tvg-logo="http://xplussport.com:8080/images/ae4a3a3f0fbe5ab8c657a87e77d45038.png" group-title="PLAYBACK",MULTISHOW PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/927
+#EXTINF:-1 tvg-id="2271082e80a6c556d510dd40ec7c85c9" tvg-name="MUSIC BOX  4K" tvg-logo="http://185.53.90.49:41001/logos/music box.png" group-title="MUSICA",MUSIC BOX  4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/424
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",NARUTO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/704
+#EXTINF:-1 tvg-id="7655e9a70218f2aef78e339238fd8192" tvg-name="NAT GEO WILD 4K" tvg-logo="http://xplussport.com:8080/images/de700459188136f466a95982fc3ff919.png" group-title="DOCUMENTARIOS",NAT GEO WILD 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/86
+#EXTINF:-1 tvg-id="2c4d2ef7733c6a39de451eb30e4fcad5" tvg-name="NATGEO KIDS 4K" tvg-logo="http://185.53.90.49:41001/logos/natgeokids.png" group-title="INFANTIS",NATGEO KIDS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/361
+#EXTINF:-1 tvg-id="2c4d2ef7733c6a39de451eb30e4fcad5" tvg-name="NATGEO KIDS HD" tvg-logo="http://185.53.90.49:41001/logos/natgeokids.png" group-title="INFANTIS",NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/362
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD PT" tvg-logo="http://xplussport.com:8080/images/de700459188136f466a95982fc3ff919.png" group-title="PORTUGAL ",NATGEO WILD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/898
+#EXTINF:-1 tvg-id="0468e9c61c2406180ed5df536b8e95d6" tvg-name="NATIONAL GEOGRAPHIC 4K" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/87
+#EXTINF:-1 tvg-id="0468e9c61c2406180ed5df536b8e95d6" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/88
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC LT" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="LATINOS",NATIONAL GEOGRAPHIC LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/873
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC PT" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="PORTUGAL ",NATIONAL GEOGRAPHIC PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/897
+#EXTINF:-1 tvg-id="aaff79db8057bd9782f27b25af31955e" tvg-name="NHK 4K" tvg-logo="http://toptv2.com:25461/logos/NHHK.png" group-title="NOTICIAS",NHK 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/449
+#EXTINF:-1 tvg-id="aaff79db8057bd9782f27b25af31955e" tvg-name="NHK HD" tvg-logo="http://toptv2.com:25461/logos/NHHK.png" group-title="NOTICIAS",NHK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/450
+#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR 4K" tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="INFANTIS",NICK JR 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/363
+#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR HD" tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="INFANTIS",NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/364
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR LT" tvg-logo="https://www.pikpng.com/pngl/m/453-4530233_nick-jr-logo-png-e-vetor-download-de.png" group-title="LATINOS",NICK JR LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/859
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR PT" tvg-logo="https://w7.pngwing.com/pngs/9/917/png-transparent-nick-jr-too-nickelodeon-television-logo-nick-jr.png" group-title="PORTUGAL ",NICK JR PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/885
+#EXTINF:-1 tvg-id="" tvg-name="NICK MUSIC LT" tvg-logo="https://logodix.com/logo/1045741.png" group-title="LATINOS",NICK MUSIC LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/860
+#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON 4K" tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="INFANTIS",NICKELODEON 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/365
+#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON HD" tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="INFANTIS",NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/768
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Nickelodeon_1993.svg/revision/latest/scale-to-width-down/250?cb=20210820185041&path-prefix=es" group-title="PORTUGAL ",NICKELODEON PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/886
+#EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="NOVO TEMPO HD" tvg-logo="http://toptv2.com:25461/logos/TV_Novo_Tempo.png" group-title="TV ABERTA",NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/556
+#EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF 4K" tvg-logo="http://toptv2.com:25461/logos/canal-off_HD.png" group-title="FILMES & SERIES",OFF 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/273
+#EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF HD" tvg-logo="http://toptv2.com:25461/logos/canal-off_HD.png" group-title="FILMES & SERIES",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/274
+#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE EAST BLUE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",ONE PIECE EAST BLUE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/705
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINSTONES" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",OS FLINSTONES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/706
+#EXTINF:-1 tvg-id="" tvg-name="OS JETSON " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",OS JETSON 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/707
+#EXTINF:-1 tvg-id="" tvg-name="OS PADRINHOS MAGICOS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",OS PADRINHOS MAGICOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/708
+#EXTINF:-1 tvg-id="" tvg-name="OS PATOS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",OS PATOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/709
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",OS SIMPSONS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/710
+#EXTINF:-1 tvg-id="5732a420f537fb46b10feeda7d2c52b5" tvg-name="PAI ETERNO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="ENTRETENIMENTO",PAI ETERNO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/939
+#EXTINF:-1 tvg-id="" tvg-name="PANDA BIGGS PT" tvg-logo="http://xplussport.com:8080/images/7cb4f438f2191c6f2ca46487121e7f5b.png" group-title="PORTUGAL ",PANDA BIGGS PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/888
+#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT CHANNEL 4K" tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="FILMES & SERIES",PARAMOUNT CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/275
+#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT HD" tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="FILMES & SERIES",PARAMOUNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/276
+#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="PLAYBACK",PARAMOUNT PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/937
+#EXTINF:-1 tvg-id="" tvg-name="PATO DONALD" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",PATO DONALD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/712
+#EXTINF:-1 tvg-id="" tvg-name="PAY PER VIEW ESPORTES 1" tvg-logo="http://xplussport.com:8080/images/987c3cb325b7e544a576bb45a51689ae.png" group-title="ESPORTES ONLINE",PAY PER VIEW ESPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/989
+#EXTINF:-1 tvg-id="1481c6022bbd0c4f3a2e875b789ee7c4" tvg-name="PEPPA PIG" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",PEPPA PIG
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/713
+#EXTINF:-1 tvg-id="" tvg-name="PEQUENA SEREIA " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",PEQUENA SEREIA 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/714
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",PERNALONGA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/715
+#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PFC +" tvg-logo="http://toptv2.com:25461/logos/pfc.png" group-title="ESPORTES",PFC +
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/146
+#EXTINF:-1 tvg-id="" tvg-name="PICA PAU" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",PICA PAU
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/716
+#EXTINF:-1 tvg-id="" tvg-name="PINK E CEREBRO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",PINK E CEREBRO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/717
+#EXTINF:-1 tvg-id="" tvg-name="PINTINHO AMARELINHO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",PINTINHO AMARELINHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/718
+#EXTINF:-1 tvg-id="" tvg-name="PJ MASKS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",PJ MASKS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/719
+#EXTINF:-1 tvg-id="bd5d7cf823212b72ce943bfabb614a9e" tvg-name="PLAY TV" tvg-logo="http://185.53.90.49:41001/logos/play tv.png" group-title="MUSICA",PLAY TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/426
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",POKEMON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/720
+#EXTINF:-1 tvg-id="" tvg-name="POLICIA MILITAR " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS FILMES ",POLICIA MILITAR 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/669
+#EXTINF:-1 tvg-id="4d1d789d86786a9ff73d25cbe4de07d1" tvg-name="POLISHOP HD" tvg-logo="http://185.53.90.49:41001/logos/polishop.png" group-title="ENTRETENIMENTO",POLISHOP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/427
+#EXTINF:-1 tvg-id="" tvg-name="POPEYE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",POPEYE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/721
+#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PREMIERE 1 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/148
+#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PREMIERE 1 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/147
+#EXTINF:-1 tvg-id="b5381f02a7c15c61ffa98aef98a17153" tvg-name="PREMIERE 2 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/149
+#EXTINF:-1 tvg-id="b5381f02a7c15c61ffa98aef98a17153" tvg-name="PREMIERE 2 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/150
+#EXTINF:-1 tvg-id="22c91dbf50b62270e636e4580a334f64" tvg-name="PREMIERE 3 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/153
+#EXTINF:-1 tvg-id="22c91dbf50b62270e636e4580a334f64" tvg-name="PREMIERE 3 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/152
+#EXTINF:-1 tvg-id="9877d69b539e24abe50854d380b3ead3" tvg-name="PREMIERE 4 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 4 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/155
+#EXTINF:-1 tvg-id="9877d69b539e24abe50854d380b3ead3" tvg-name="PREMIERE 4 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/154
+#EXTINF:-1 tvg-id="e283a922f2e62b3eb93a6c31e21a70ec" tvg-name="PREMIERE 5 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 5 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/157
+#EXTINF:-1 tvg-id="e283a922f2e62b3eb93a6c31e21a70ec" tvg-name="PREMIERE 5 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/156
+#EXTINF:-1 tvg-id="c01003421239cbc0fb789944333ebc7a" tvg-name="PREMIERE 6 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 6 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/159
+#EXTINF:-1 tvg-id="c01003421239cbc0fb789944333ebc7a" tvg-name="PREMIERE 6 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/158
+#EXTINF:-1 tvg-id="caea7ea0b318bf8708481a8339e6e562" tvg-name="PREMIERE 7 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 7 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/161
+#EXTINF:-1 tvg-id="caea7ea0b318bf8708481a8339e6e562" tvg-name="PREMIERE 7 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/160
+#EXTINF:-1 tvg-id="5e16411ef98f27297132cd8064f0acaf" tvg-name="PREMIERE 8 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 8 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/162
+#EXTINF:-1 tvg-id="87652b56da39ead9ade0fcb2ee883ccb" tvg-name="PREMIERE 9 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 9 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/163
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUB HDR+" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS HDR+",PREMIERE CLUB HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/1003
+#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PREMIERE CLUBES 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE CLUBES 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/165
+#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/164
+#EXTINF:-1 tvg-id="907290e24ec6e81e0c5e1efb9fa1eb95" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/PrimeBoxBrazil.png" group-title="FILMES & SERIES",PRIME BOX BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/277
+#EXTINF:-1 tvg-id="33877e13059c576fd02bf5d576c18739" tvg-name="RAI ITALIA HD" tvg-logo="http://toptv2.com:25461/logos/rai.png" group-title="NOTICIAS",RAI ITALIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/428
+#EXTINF:-1 tvg-id="3b220cc065f34810b98141ad412a1076" tvg-name="RBI 4K" tvg-logo="http://toptv2.com:25461/logos/RBI_TV.png" group-title="TV ABERTA",RBI 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/517
+#EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="RBS TV PORTO ALEGRE " tvg-logo="http://toptv2.com:25461/logos/RBS_TV.png" group-title="TV ABERTA",RBS TV PORTO ALEGRE 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/519
+#EXTINF:-1 tvg-id="79a773fe452a6ff5dbd0dd21c20880bb" tvg-name="RECORD BAHIA HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/520
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD BRASILIA HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/521
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD DF HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD DF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/522
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/523
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD MANAUS HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD MANAUS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/524
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD MINAS UHD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD MINAS UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/525
+#EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS HD" tvg-logo="http://toptv2.com:25461/logos/Record_News_UHD.png" group-title="NOTICIAS",RECORD NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/452
+#EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS U4K" tvg-logo="http://toptv2.com:25461/logos/Record_News_UHD.png" group-title="NOTICIAS",RECORD NEWS U4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/451
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD PARANA HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD PARANA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/526
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD RJ 4K" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD RJ 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/766
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD RJ HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/527
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD SP HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/529
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HDR+" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="CANAIS HDR+",RECORD SP HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/999
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD SP INTERIOR HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD SP INTERIOR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/528
+#EXTINF:-1 tvg-id="79a773fe452a6ff5dbd0dd21c20880bb" tvg-name="RECORD SP PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="PLAYBACK",RECORD SP PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/916
+#EXTINF:-1 tvg-id="f7274fbdf20f8c7a253a962682f4ceae" tvg-name="REDE BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/rede-brasil.png" group-title="TV ABERTA",REDE BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/531
+#EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="http://toptv2.com:25461/logos/RedeTV!.png" group-title="TV ABERTA",REDE TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/532
+#EXTINF:-1 tvg-id="1418f5c4721e363d0c1a67496d3605d4" tvg-name="REDE VIDA HD" tvg-logo="http://toptv2.com:25461/logos/Rede_Vida_HD.png" group-title="ENTRETENIMENTO",REDE VIDA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/113
+#EXTINF:-1 tvg-id="" tvg-name="REINO GELADO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",REINO GELADO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/722
+#EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE HD " tvg-logo="https://www.saboreartetorteria.com.br/wp-content/uploads/2019/08/saborearte.png" group-title="ENTRETENIMENTO",SABOR & ARTE HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/877
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT 4K" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="TV ABERTA",SBT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/534
+#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT CIDADE VERDE HD" tvg-logo="" group-title="TV ABERTA",SBT CIDADE VERDE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/535
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT HD" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="TV ABERTA",SBT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/540
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="PLAYBACK",SBT PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/926
+#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT RJ UHD" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="TV ABERTA",SBT RJ UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/537
+#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT SERRA DOURADA 4K" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="TV ABERTA",SBT SERRA DOURADA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/538
+#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME  4K" tvg-logo="" group-title="ENTRETENIMENTO",SHOPTIME  4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/799
+#EXTINF:-1 tvg-id="" tvg-name="SHURATO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",SHURATO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/724
+#EXTINF:-1 tvg-id="b35a5b6cb4a76849b0844dbeef2a269f" tvg-name="SIC INTERNACIONAL" tvg-logo="http://toptv2.com:25461/logos/SIC_INTERNACIOANL.png" group-title="NOTICIAS",SIC INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/453
+#EXTINF:-1 tvg-id="" tvg-name="SILVER HAWKS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",SILVER HAWKS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/725
+#EXTINF:-1 tvg-id="" tvg-name="SIMON" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",SIMON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/726
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1 HD " tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png" group-title="PORTUGAL ",SKY SPORTS F1 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/808
+#EXTINF:-1 tvg-id="smithsonianchannel.br" tvg-name="SMITHSONIAN HD" tvg-logo="https://w7.pngwing.com/pngs/682/281/png-transparent-smithsonian-institution-building-national-museum-of-natural-history-national-air-and-space-museum-smithsonian-american-art-museum-bright-idea-leaf-text-logo.png" group-title="DOCUMENTARIOS",SMITHSONIAN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/851
+#EXTINF:-1 tvg-id="83ac2c679b44c648ac23990f713c5cb2" tvg-name="SONY CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/Canal_Sony_UHD.png" group-title="FILMES & SERIES",SONY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/238
+#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE 4K" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="FILMES & SERIES",SPACE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/278
+#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE HD" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="FILMES & SERIES",SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/279
+#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="PLAYBACK",SPACE PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/929
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORT TV 1 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV 1 HD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/167
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORT TV 2 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV 2 HD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/168
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORT TV 3 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV 3 HD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/169
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV 4 HD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/170
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV 5 HD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/171
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORT TV+ HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV+ HD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/166
+#EXTINF:-1 tvg-id="" tvg-name="SPORTING HD " tvg-logo="" group-title="PORTUGAL ",SPORTING HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/805
+#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 4K" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="ESPORTES",SPORTV 1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/183
+#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 HD" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="ESPORTES",SPORTV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/182
+#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 HDR" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="ESPORTES",SPORTV 1 HDR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/178
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 1 HDR+" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="CANAIS HDR+",SPORTV 1 HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/993
+#EXTINF:-1 tvg-id="2ab405ed6f10dd88a1783b89c5283b56" tvg-name="SPORTV 2 4K" tvg-logo="http://xplussport.com:8080/images/ee67489938d900ebacc1bddfd70c1622.png" group-title="ESPORTES",SPORTV 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/172
+#EXTINF:-1 tvg-id="2ab405ed6f10dd88a1783b89c5283b56" tvg-name="SPORTV 2 HD" tvg-logo="http://xplussport.com:8080/images/34a7dec4daf47543bb4fac030a0d52d5.png" group-title="ESPORTES",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/173
+#EXTINF:-1 tvg-id="70162c39a3bb1b387294c154927a4905" tvg-name="SPORTV 3 4K" tvg-logo="http://xplussport.com:8080/images/1669ef2cc27503cba33e431dcc4f3809.png" group-title="ESPORTES",SPORTV 3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/175
+#EXTINF:-1 tvg-id="70162c39a3bb1b387294c154927a4905" tvg-name="SPORTV 3 HD" tvg-logo="http://xplussport.com:8080/images/1669ef2cc27503cba33e431dcc4f3809.png" group-title="ESPORTES",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/176
+#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="FILMES & SERIES",STAR CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/281
+#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="FILMES & SERIES",STAR CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/282
+#EXTINF:-1 tvg-id="a5f003ea82d27ff74dc6530980018baa" tvg-name="STAR LIFE 4K" tvg-logo="http://xplussport.com:8080/images/62669028115b285e4b17b156ee0d8303.png" group-title="FILMES & SERIES",STAR LIFE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/287
+#EXTINF:-1 tvg-id="a5f003ea82d27ff74dc6530980018baa" tvg-name="STAR LIFE HD" tvg-logo="http://xplussport.com:8080/images/62669028115b285e4b17b156ee0d8303.png" group-title="FILMES & SERIES",STAR LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/288
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 1 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/829
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/826
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 3 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/827
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 4 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/828
+#EXTINF:-1 tvg-id="" tvg-name="STREET FIGHTER " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",STREET FIGHTER 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/727
+#EXTINF:-1 tvg-id="bd29923f14b4c6b2ce048290e0ba8cbe" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://toptv2.com:25461/logos/Studio_Universal.png" group-title="FILMES & SERIES",STUDIO UNIVERSAL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/289
+#EXTINF:-1 tvg-id="" tvg-name="SUPER MAN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",SUPER MAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/728
+#EXTINF:-1 tvg-id="" tvg-name="SUPER MAN 2" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",SUPER MAN 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/729
+#EXTINF:-1 tvg-id="2ed30807ff0c5a5ea5800332ad988ba6" tvg-name="SYFY HD" tvg-logo="http://xplussport.com:8080/images/4474e6c225a3fdc027570708a7459368.png" group-title="FILMES & SERIES",SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/781
+#EXTINF:-1 tvg-id="2ed30807ff0c5a5ea5800332ad988ba6" tvg-name="SYFY PLAYBACK" tvg-logo="http://xplussport.com:8080/images/4474e6c225a3fdc027570708a7459368.png" group-title="PLAYBACK",SYFY PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/914
+#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS 4K" tvg-logo="http://toptv2.com:25461/logos/tbs_hd.png" group-title="FILMES & SERIES",TBS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/290
+#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS DUAL" tvg-logo="http://toptv2.com:25461/logos/tbs_hd.png" group-title="CANAIS DUAL AUDIO ",TBS DUAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/791
+#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS HD" tvg-logo="http://toptv2.com:25461/logos/tbs_hd.png" group-title="FILMES & SERIES",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/291
+#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM HD" tvg-logo="http://toptv2.com:25461/logos/TCM_HD.png" group-title="FILMES & SERIES",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/292
+#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM UHD" tvg-logo="http://toptv2.com:25461/logos/TCM_HD.png" group-title="FILMES & SERIES",TCM UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/293
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION 4K" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="FILMES & SERIES",TELECINE ACTION 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/294
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION DUAL" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="CANAIS DUAL AUDIO ",TELECINE ACTION DUAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/785
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION HD" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="FILMES & SERIES",TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/295
+#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT 4K" tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="FILMES & SERIES",TELECINE CULT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/297
+#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT HD" tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="FILMES & SERIES",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/298
+#EXTINF:-1 tvg-id="a46d13a74579cf91484280c3771aad3b" tvg-name="TELECINE FUN 4K" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="FILMES & SERIES",TELECINE FUN 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/300
+#EXTINF:-1 tvg-id="a46d13a74579cf91484280c3771aad3b" tvg-name="TELECINE FUN DUAL " tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="CANAIS DUAL AUDIO ",TELECINE FUN DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/789
+#EXTINF:-1 tvg-id="a46d13a74579cf91484280c3771aad3b" tvg-name="TELECINE FUN HD" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="FILMES & SERIES",TELECINE FUN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/301
+#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="FILMES & SERIES",TELECINE PIPOCA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/303
+#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA DUAL " tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="CANAIS DUAL AUDIO ",TELECINE PIPOCA DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/788
+#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="FILMES & SERIES",TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/304
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HDR+" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="CANAIS HDR+",TELECINE PIPOCA HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/996
+#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA PLAYBACK" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="PLAYBACK",TELECINE PIPOCA PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/933
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="FILMES & SERIES",TELECINE PREMIUM 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/306
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM DUAL " tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="CANAIS DUAL AUDIO ",TELECINE PREMIUM DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/787
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="FILMES & SERIES",TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/307
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HDR+" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="CANAIS HDR+",TELECINE PREMIUM HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/997
+#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH 4K" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="FILMES & SERIES",TELECINE TOUCH 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/309
+#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH DUAL " tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="CANAIS DUAL AUDIO ",TELECINE TOUCH DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/786
+#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH HD" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="FILMES & SERIES",TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/310
+#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",TIMAO E PUMBA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/731
+#EXTINF:-1 tvg-id="152266744258c8bc279c2dbdb87338f7" tvg-name="TLC 4K" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS",TLC 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/91
+#EXTINF:-1 tvg-id="152266744258c8bc279c2dbdb87338f7" tvg-name="TLC HD" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/92
+#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT 4K" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="FILMES & SERIES",TNT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/312
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES LT" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/f7/9b/21/f79b2181-f32a-ac81-5627-fb713be365a4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="LATINOS",TNT ESPORTES LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/876
+#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT HD" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="FILMES & SERIES",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/313
+#EXTINF:-1 tvg-id="" tvg-name="TNT HDR+" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="CANAIS HDR+",TNT HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/1004
+#EXTINF:-1 tvg-id="" tvg-name="TNT LT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="LATINOS",TNT LT 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/874
+#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT PLAYBACK" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="PLAYBACK",TNT PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/928
+#EXTINF:-1 tvg-id="65db1706ea43ff201632c39740ddc620" tvg-name="TNT SERIES 4K" tvg-logo="http://xplussport.com:8080/images/5e728d9b0a1f70bcfa9ae3503002645b.png" group-title="FILMES & SERIES",TNT SERIES 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/314
+#EXTINF:-1 tvg-id="65db1706ea43ff201632c39740ddc620" tvg-name="TNT SERIES HD" tvg-logo="http://xplussport.com:8080/images/5e728d9b0a1f70bcfa9ae3503002645b.png" group-title="FILMES & SERIES",TNT SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/315
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES LT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="LATINOS",TNT SERIES LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/875
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS COMEDIA",TODO MUNDO ODEIA O CRIS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/732
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",TOM & JERRY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/733
+#EXTINF:-1 tvg-id="58cffaf314a9cfe1559b101844f07dc3" tvg-name="TOONCAST 4K" tvg-logo="http://185.53.90.49:41001/logos/tooncast.png" group-title="INFANTIS",TOONCAST 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/367
+#EXTINF:-1 tvg-id="58cffaf314a9cfe1559b101844f07dc3" tvg-name="TOONCAST HD" tvg-logo="http://185.53.90.49:41001/logos/tooncast.png" group-title="INFANTIS",TOONCAST HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/368
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST LT" tvg-logo="https://logodix.com/logo/1933609.png" group-title="LATINOS",TOONCAST LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/861
+#EXTINF:-1 tvg-id="" tvg-name="TOROS PT" tvg-logo="http://xplussport.com:8080/images/514a5a0dcbc57beef26e13b80d6aef92.png" group-title="PORTUGAL ",TOROS PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/891
+#EXTINF:-1 tvg-id="" tvg-name="TRACE BRAZUCA HD " tvg-logo="http://xplussport.com:8080/images/42ecffe48fdd469bc47366fb0b873f7f.png" group-title="MUSICA",TRACE BRAZUCA HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/969
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="DOCUMENTARIOS",TRAVEL BOX BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/848
+#EXTINF:-1 tvg-id="258d342c88b7e32980d6799b2d1f6cba" tvg-name="TRU TV HD" tvg-logo="http://toptv2.com:25461/logos/TruTV.png" group-title="FILMES & SERIES",TRU TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/541
+#EXTINF:-1 tvg-id="f4643f16afe1996b188eb7b59796a265" tvg-name="TV APARECIDA HD" tvg-logo="http://toptv2.com:25461/logos/Aparecida.png" group-title="TV ABERTA",TV APARECIDA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/542
+#EXTINF:-1 tvg-id="55a411a89ae36ebde1bb9ac6aa7620f2" tvg-name="TV BRASIL 2 4K" tvg-logo="http://xplussport.com:8080/images/74538433148f4542f648fa66d78e99a4.png" group-title="TV ABERTA",TV BRASIL 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/908
+#EXTINF:-1 tvg-id="9fbb20e93f9118ff3cfe19fcbe904fe8" tvg-name="TV BRASIL 4K" tvg-logo="http://xplussport.com:8080/images/74538433148f4542f648fa66d78e99a4.png" group-title="TV ABERTA",TV BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/544
+#EXTINF:-1 tvg-id="1594718929490742a7e44dd6e5a80a63" tvg-name="TV CAMARA " tvg-logo="http://toptv2.com:25461/logos/tv-camara.png" group-title="TV ABERTA",TV CAMARA 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/545
+#EXTINF:-1 tvg-id="231eb208f32f3a9a9dbe8ac3d9e03284" tvg-name="TV CULTURA UHD" tvg-logo="http://toptv2.com:25461/logos/tv-cultura.png" group-title="TV ABERTA",TV CULTURA UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/547
+#EXTINF:-1 tvg-id="9e0c3303b37245538eb1c1cfc0b8d480" tvg-name="TV DIARIO HD" tvg-logo="http://toptv2.com:25461/logos/TV_Diario_Fortalisa.png" group-title="TV ABERTA",TV DIARIO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/548
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA ES 4K" tvg-logo="http://xplussport.com:8080/images/8dd7630d1b4d5c765dc5febc4aa7f01a.png" group-title="TV ABERTA",TV GAZETA ES 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/992
+#EXTINF:-1 tvg-id="45b2a4dbd9c2837985683683d668e565" tvg-name="TV JUSTICA " tvg-logo="http://toptv2.com:25461/logos/tv-justica.png" group-title="TV ABERTA",TV JUSTICA 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/553
+#EXTINF:-1 tvg-id="" tvg-name="TV MORENA 4K" tvg-logo="" group-title="TV ABERTA",TV MORENA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/555
+#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM 4K" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="INFANTIS",TV RA TIM BUM 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/369
+#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM HD" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="INFANTIS",TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/557
+#EXTINF:-1 tvg-id="46449f189313865e5b6d13cd55da8c7e" tvg-name="TV SENADO " tvg-logo="http://toptv2.com:25461/logos/tv-senado.png" group-title="TV ABERTA",TV SENADO 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/559
+#EXTINF:-1 tvg-id="ccc9131a347fd67a65ad45b2cad2f650" tvg-name="TV TEM SAO JOSE DO RIO PRETO" tvg-logo="http://xplussport.com:8080/images/ebb669d13b4e05676c3fda8143ebf945.png" group-title="TV ABERTA",TV TEM SAO JOSE DO RIO PRETO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/983
+#EXTINF:-1 tvg-id="f2914561160f44d4edf6a09eabcba449" tvg-name="TV TEM SOROCABA HD" tvg-logo="http://toptv2.com:25461/logos/TV_TEM_SOROCABA.png" group-title="TV ABERTA",TV TEM SOROCABA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/562
+#EXTINF:-1 tvg-id="bab8afec1121f433e170442e67a28718" tvg-name="TV TRIBUNA SANTOS " tvg-logo="http://toptv2.com:25461/logos/TV_Tribuna_(Santos).png" group-title="TV ABERTA",TV TRIBUNA SANTOS 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/564
+#EXTINF:-1 tvg-id="c31416092365cff9fcbe9d18533b1310" tvg-name="TV VANGUARDA S. J. DOS CAMPOS " tvg-logo="http://toptv2.com:25461/logos/tv_vanguarda.png" group-title="TV ABERTA",TV VANGUARDA S. J. DOS CAMPOS 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/565
+#EXTINF:-1 tvg-id="50a52cc9f2d40a3244b98383db30f334" tvg-name="TV VERDES MARES FORTALEZA 4K" tvg-logo="http://toptv2.com:25461/logos/TV_Verdes_Mares.png" group-title="TV ABERTA",TV VERDES MARES FORTALEZA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/566
+#EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL DUAL " tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="CANAIS DUAL AUDIO ",UNIVERSAL CHANNEL DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/792
+#EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/319
+#EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL PLAYBACK" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="PLAYBACK",UNIVERSAL CHANNEL PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/932
+#EXTINF:-1 tvg-id="9a7ea68940f10cca33470c26aa447a89" tvg-name="VH1 HD" tvg-logo="http://toptv2.com:25461/logos/VH1.png" group-title="MUSICA",VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/430
+#EXTINF:-1 tvg-id="9a7ea68940f10cca33470c26aa447a89" tvg-name="VH1 MEGAHITS" tvg-logo="http://toptv2.com:25461/logos/VH1_MEGAHITS.png" group-title="MUSICA",VH1 MEGAHITS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/431
+#EXTINF:-1 tvg-id="9a7ea68940f10cca33470c26aa447a89" tvg-name="VH1 PORTUGAL" tvg-logo="" group-title="MUSICA",VH1 PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/777
+#EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA 4K" tvg-logo="http://toptv2.com:25461/logos/viva_HD.png" group-title="ENTRETENIMENTO",VIVA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/114
+#EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA HD" tvg-logo="http://toptv2.com:25461/logos/viva_HD.png" group-title="ENTRETENIMENTO",VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/116
+#EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/viva_HD.png" group-title="PLAYBACK",VIVA PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/923
+#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL 4K" tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="FILMES & SERIES",WARNER CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/783
+#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="FILMES & SERIES",WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/320
+#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="PLAYBACK",WARNER CHANNEL PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/930
+#EXTINF:-1 tvg-id="91dde19254a54cab76902ca6d52cc7aa" tvg-name="WOOHOO HD" tvg-logo="http://toptv2.com:25461/logos/WOHOO_UHD.png" group-title="ENTRETENIMENTO",WOOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9958466963/3263774979/117
